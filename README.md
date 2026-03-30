@@ -1,227 +1,108 @@
-<p align="center">
+<div align="center">
 
-  <img src="https://avatars.githubusercontent.com/u/133500636?v=4" width="120" alt="SNTL 84 avatar">
-  
-</p>
+<img src="https://avatars.githubusercontent.com/u/133500636?v=4" width="120" alt="SNTL 84 avatar">
 
+# SNTL 84 — Strategic AI Workflow Developer & Automation Engineer
 
+**I'm Milan**, a Strategic AI Workflow Developer based in Surat, India, building automation tools, AI-powered apps, and full-stack solutions for founders, agencies, and businesses.
 
-<h1 align="center">Hi there 👋, I'm SNTL 84</h1>h1>
+I operate under the brand **SNTL 84**, combining deep expertise in AI orchestration with real-world business systems experience across distribution, supply chain, and operations.
 
+Open to freelance gigs, project collabs, and AI workflow consulting.
 
+**[Hire me → desidevloper.com](https://desidevloper.com)**
 
-<p align="center">
-
-  <strong>AI Workflow Developer | TypeScript | Automation & Bots | Prompt Engineering</strong><br/>
-  
-  <em>Turning code into craft. Building automation with purpose.</em>
-  
-</p>
-
-
-
-<p align="center">
-
-  <a href="https://github.com/SNTL84"><img src="https://img.shields.io/github/followers/SNTL84?style=social&label=Follow" alt="GitHub Followers"></a>
-  
-  <a href="https://github.com/SNTL84/SNTL84/stargazers"><img src="https://img.shields.io/github/stars/SNTL84?style=social&label=Stars" alt="GitHub Stars"></a>
-  
-  <a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=SNTL84&label=Profile+Views&color=brightgreen" alt="Profile Views"></a>
-  
-  <a href="https://wakatime.com/@SNTL84"><img src="https://wakatime.com/badge/user/your-id.svg" alt="Code Time"></a>
-  
-</p>
-
-
+</div>
 
 ---
 
+## 🧠 Who I Am
 
-
-## 🧠 What I Do
-
-
-
-<p align="center">
-
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript">
-  
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js">
-  
-  <img src="https://img.shields.io/badge/Deno-000000?logo=deno&logoColor=white&style=for-the-badge" alt="Deno">
-  
-  <img src="https://img.shields.io/badge/Discord%20Bots-5865F2?logo=discord&logoColor=white&style=for-the-badge" alt="Discord Bots">
-  
-  <img src="https://img.shields.io/badge/Automation-FF6B6B?logo=robot-framework&logoColor=white&style=for-the-badge" alt="Automation">
-  
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-FF9F43?logo=openai&logoColor=white&style=for-the-badge" alt="Prompt Engineering">
-  
-</p>
-
-
-
-- 🤖 Building AI-powered **automation workflows**
-- 
-- 🛠️ Crafting **custom bots** for Discord, Telegram & WhatsApp
-- 
-- 🚀 Exploring **modern stacks** (TypeScript, Deno, Bun)
-- 
-- 🧩 Solving problems with **clean code** and **creative solutions**
-- 
-
+- Strategic AI Workflow Developer based in Surat, India
+- Builder of AI-powered apps, automation pipelines, and custom workflow systems
+- Background in distribution, supply chain, and FMCG operations
+- Open to freelance projects, consulting, and collabs
 
 ---
 
+## 🛠️ Tech Stack
 
+**Languages & Frameworks:** TypeScript · JavaScript · HTML · CSS · Shell
 
-## 📊 My GitHub Stats
+**Tools:** Vite · Node.js · Git · VS Code · Cursor IDE
 
+**AI & APIs:** Gemini API · Claude API · ChatGPT · Google AI Studio · Perplexity AI
 
-
-<p align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=SNTL84&show_icons=true&theme=gruvbox&count_private=true&hide=prs" alt="GitHub Stats" height="170">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SNTL84&layout=compact&theme=gruvbox&langs_count=8" alt="Top Languages" height="170">
-  
-</p>
-
-
-
-<p align="center">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SNTL84&theme=gruvbox" alt="GitHub Streak" height="170">
-  
-</p>
-
-
+**Specialisations:** AI Workflow Automation · Prompt Engineering · Agent Design · LLM Integration
 
 ---
 
+## 🚀 Featured Projects
 
+### [AI Studio — 99 Pages in 3 Prompts](https://github.com/SNTL84/ai-studio-99page-generator)
+Rapid multi-page web app generation using Gemini AI Studio. TypeScript · Vite · structured AI prompting.
 
-## 🏆 Achievements
+`TypeScript` `Vite` `Gemini API` `AI Studio`
 
+### [DesiDevloper Services Page](https://github.com/SNTL84/desidevloper-services-page)
+Full-service developer portfolio and services landing page built for client conversion.
 
+`HTML` `CSS` `JavaScript`
 
-<p align="center">
+### [LinkedIn Activity Archive](https://github.com/SNTL84/linkedin-activity-archive)
+Complete LinkedIn post, repost, and media archive system with analytics tracking.
 
-  <img src="https://github-profile-trophy.vercel.app/?username=SNTL84&theme=gruvbox&no-frame=true&column=6" alt="GitHub Trophies">
-  
-</p>
+`Automation` `Data Archive` `LinkedIn`
 
+### [SNTL84 Superpowers Framework](https://github.com/SNTL84/sntl84-superpowers)
+Agentic skills framework and AI-assisted software development methodology.
 
-
----
-
-
-
-## 📈 Contribution Graph
-
-
-
-<p align="center">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SNTL84&theme=gruvbox&area=true&hide_border=true" alt="Contribution Graph">
-  
-</p>
-
-
+`Shell` `Agentic AI` `Dev Methodology`
 
 ---
 
+## 📊 GitHub Stats
 
+<div align="center">
 
-## 🔗 Connect With Me
+[![GitHub followers](https://img.shields.io/github/followers/SNTL84?style=social&label=Follow)](https://github.com/SNTL84)
+[![GitHub Stars](https://img.shields.io/github/stars/SNTL84?style=social&label=Stars)](https://github.com/SNTL84/SNTL84/stargazers)
 
-
-
-<p align="center">
-
-  <a href="https://www.linkedin.com/in/SNTL278499"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"></a>
-  
-  <a href="https://desidevloper.com/"><img src="https://img.shields.io/badge/Website-FF5722?logo=google-chrome&logoColor=white&style=for-the-badge" alt="Website"></a>
-  
-  <a href="https://github.com/SNTL84"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub"></a>
-  
-</p>
-
-
+</div>
 
 ---
 
+## 💼 Services I Offer
 
+| Service | Description |
+|---|---|
+| AI Workflow Automation | Build AI-powered pipelines for repetitive business tasks |
+| Web App Development | Full-stack TypeScript / React / Vite apps |
+| Prompt Engineering | System prompts, agent design, LLM integration |
+| Virtual Assistant Builds | Custom AI assistants for business use |
+| Data Automation | LinkedIn, FMCG ops, supply chain data workflows |
 
-## ⚡ Random Dev Quote
-
-
-
-<p align="center">
-
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Random Dev Quote">
-  
-</p>
-
-
+**Ready to hire?** [desidevloper.com](https://desidevloper.com) · [WhatsApp](https://wa.me/919727413309)
 
 ---
 
+## 🔗 Find Me
 
-
-## 🐍 Contribution Snake
-
-
-
-<p align="center">
-
-  <img src="https://raw.githubusercontent.com/SNTL84/SNTL84/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
-  
-</p>
-
-
+| Platform | Link |
+|---|---|
+| Portfolio | [desidevloper.com](https://desidevloper.com) |
+| LinkedIn | [linkedin.com/in/SNTL278499](https://www.linkedin.com/in/SNTL278499) |
+| Aratt.ai | [aratt.ai/user/desidevloper](https://aratt.ai/user/desidevloper) |
+| Email | [3goldenlotusroots@gmail.com](mailto:3goldenlotusroots@gmail.com) |
+| WhatsApp | [wa.me/919727413309](https://wa.me/919727413309) |
+| ORCID | [orcid.org/0009-0008-1389-2382](https://orcid.org/0009-0008-1389-2382) |
 
 ---
 
+<div align="center">
 
+**SNTL 84 · Milan · Surat, India**
 
-<p align="center">
+*Building the future, one automation at a time.*
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F7C236&center=true&vCenter=true&width=500&lines=Code+is+poetry.;Automation+is+art.;Let's+build+something+great." alt="Typing SVG">
-  
-</p>
-
-
-
-<p align="center">
-
-  <em>"Turning code into craft. Building automation with purpose."</em>
-  
-</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+</div>
