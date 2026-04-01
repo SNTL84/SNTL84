@@ -2,7 +2,7 @@
 
 <img src="https://avatars.githubusercontent.com/u/133500636?v=4" width="120" alt="SNTL 84 avatar">
 
-# SNTL 84 — Strategic AI Workflow Developer & Automation Engineer
+# SNTL 84 — Strategic AI Workflow Developer & Automation Professional
 
 **I'm Milan**, a Strategic AI Workflow Developer based in Surat, India, building automation tools, AI-powered apps, and full-stack solutions for founders, agencies, and businesses.
 
