@@ -146,7 +146,7 @@ Agentic skills framework and AI-assisted software development methodology.
 | Platform | Link |
 |---|---|
 | Portfolio | [desidevloper.com](https://desidevloper.com) |
-| LinkedIn | [linkedin.com/in/SNTL278499](https://www.linkedin.com/in/SNTL278499) |
+| LinkedIn | [linkedin.com/in/SNTL278499](https://www.linkedin.com/in/sntl2784) |
 | Aratt.ai | [aratt.ai/user/desidevloper](https://aratt.ai/user/desidevloper) |
 | Email | [3goldenlotusroots@gmail.com](mailto:3goldenlotusroots@gmail.com) |
 | WhatsApp | [wa.me/919727413309](https://wa.me/919727413309) |
@@ -156,7 +156,7 @@ Agentic skills framework and AI-assisted software development methodology.
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SNTL278499)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sntl2784)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://desidevloper.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919727413309)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:3goldenlotusroots@gmail.com)
