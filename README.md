@@ -146,7 +146,7 @@ Agentic skills framework and AI-assisted software development methodology.
 | Platform | Link |
 |---|---|
 | Portfolio | [desidevloper.com](https://desidevloper.com) |
-| LinkedIn | [linkedin.com/in/SNTL278499](https://www.linkedin.com/in/sntl2784) |
+| LinkedIn | [linkedin.com/in/SNTL2784](https://www.linkedin.com/in/sntl2784) |
 | Aratt.ai | [aratt.ai/user/desidevloper](https://aratt.ai/user/desidevloper) |
 | Email | [3goldenlotusroots@gmail.com](mailto:3goldenlotusroots@gmail.com) |
 | WhatsApp | [wa.me/919727413309](https://wa.me/919727413309) |
