@@ -26,10 +26,19 @@ Open to freelance gigs, project collabs, and AI workflow consulting.
 
 ## 🧠 Who I Am
 
-- Strategic AI Workflow Developer based in Surat, India
-- Builder of AI-powered apps, automation pipelines, and custom workflow systems
-- Background in distribution, supply chain, and FMCG operations
-- Open to freelance projects, consulting, and collabs
+- Most developers learn to code and build apps.
+
+I learned in & out of Bpo Industry which led me to operations first.
+
+FMCG distribution. Supply chain. Real-world business workflows.
+
+Then I learned to code to automate the chaos which was observed from early 90s till date.
+
+This gives me an edge:
+
+→ I understand business problems, not just technical solutions
+→ I build tools that actually get used
+→ I focus on ROI, not just features
 
 ---
 
@@ -39,9 +48,9 @@ Open to freelance gigs, project collabs, and AI workflow consulting.
 
 **Tools:** Vite · Node.js · Git · VS Code · Cursor IDE
 
-**AI & APIs:** Gemini API · Claude API · ChatGPT · Google AI Studio · Perplexity AI
+**AI & APIs:** Gemini API · Claude API · ChatGPT · Google AI Studio · Perplexity AI· Grok AI· Deepseek AI· Blackbox AI.
 
-**Specialisations:** AI Workflow Automation · Prompt Engineering · Agent Design · LLM Integration
+**Specialisations:** AI Workflow Automation · Prompt Engineering · Agent Design · LLM Integration· Integration of Practical cost effect solution for Emerging Startups & Sick Unit's.
 
 <div align="center">
 
