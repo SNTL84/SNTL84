@@ -38,7 +38,7 @@ This gives me an edge:
 
 → I understand business problems, not just technical solutions
 → I build tools that actually get used
-→ I focus on ROI, not just features
+→ I focus on Cost Effective & ROI, not just features
 
 ---
 
