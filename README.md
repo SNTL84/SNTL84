@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=SNTL%2084&fontSize=60&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Strategic%20AI%20Workflow%20Developer%20%26%20Automation%20Professional&descAlignY=55&descSize=16&descColor=a0a0b0" alt="SNTL 84 " />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=SNTL%2084&fontSize=60&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Strategic%20A GENTIC AI%20Workflow%20Developer%20%26%20Automation%20Professional&descAlignY=55&descSize=16&descColor=a0a0b0" alt="SNTL 84 " />
 
 <br/>
 
