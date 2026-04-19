@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=SNTL%2084&fontSize=60&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Strategic%20A GENTIC AI%20Workflow%Professional %20%26%20Automation%20Professional&descAlignY=55&descSize=16&descColor=a0a0b0" alt="SNTL 84 " />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=SNTL%2084&fontSize=60&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Strategic%20Agentic%20AI%20Workflow%20%26%20Automation%20Professional&descAlignY=55&descSize=16&descColor=a0a0b0" alt="SNTL 84" />
 
 <br/>
 
 <img src="https://avatars.githubusercontent.com/u/133500636?v=4" width="120" style="border-radius:50%;" alt="SNTL 84 avatar">
 
-# SNTL 84 — Strategic AI Workflow & Automation Professional | Bridging Real-World Business Supply Chains with Intelligent Systems.
+# SNTL 84 — Strategic AI Workflow & Automation Professional
 
-**I'm Milan**, a Strategic AI Workflow Professional based in Surat, India, building automation tools, AI-powered apps, and full-stack solutions for founders, agencies, and businesses.
+**I'm Milan**, a Strategic AI Workflow Professional based in Surat, India, building automation systems, AI-powered apps, and full-stack solutions for founders, agencies, and businesses.
 
-I operate under the brand **SNTL 84**, combining deep expertise in AI orchestration with real-world business systems experience across distribution, supply chain, and operations.
+I operate under the brand **SNTL 84**, combining deep experience in real-world operations (FMCG, retail, telecom, real estate) with AI orchestration and software engineering.
 
-Open to freelance gigs, project collabs, and AI workflow consulting.
+Open to freelance gigs, project collaborations, and AI workflow consulting.
 
 **[Hire me → desidevloper.com](https://desidevloper.com)**
 
@@ -26,31 +26,45 @@ Open to freelance gigs, project collabs, and AI workflow consulting.
 
 ## 🧠 Who I Am
 
-- Most Professional learn to code and build apps.
+Most developers learn to code first and only later see real operations.
 
-I learned in & out of Bpo Industry which led me to operations first.
+I did the opposite: I spent years inside **BPO, FMCG distribution, retail, telecom and real estate operations** before writing a single line of code.
 
-FMCG distribution. Supply chain. Real-world business workflows.
+- Ran day-to-day stores, forecourts, and sales operations
+- Owned HSSE, audits, staffing, and on-the-ground workflows
+- Saw first-hand where money and time are wasted
 
-Then I learned to code to automate the chaos which was observed from early 90s till date.
+Then I learned to code to **automate the chaos** I had been watching since the 90s.
 
 This gives me an edge:
 
-→ I understand business problems, not just technical solutions
-→ I build tools that actually get used
-→ I focus on Cost Effective & ROI, not just features
+- I understand business problems, not just technical solutions
+- I build tools that actually get used by teams
+- I focus on **cost efficiency & ROI**, not vanity features
+
+---
+
+## ⚙️ What I Build
+
+- **Hiring & talent systems** — AI-powered hiring funnels, resume intelligence, agentic recruiters
+- **Lead & sales automations** — lead enrichment, outreach flows, CRM cleanup, follow-up cadences
+- **Backoffice & operations OS** — HR, finance, and admin dashboards that quietly run the business
+- **Vertical agents** — real estate valuation agents, hospitality co-hosts, e-commerce service stacks
+- **Developer tooling & self-automation** — repo counters, profile dashboards, quote calculators
+
+If it is **repetitive, rules-based, and impacts P&L**, I’m interested.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages & Frameworks:** TypeScript · JavaScript · HTML · CSS · Shell
+**Languages & Frameworks:** TypeScript · JavaScript · HTML · CSS · Shell · Python (foundations)
 
 **Tools:** Vite · Node.js · Git · VS Code · Cursor IDE
 
-**AI & APIs:** Gemini API · Claude API · ChatGPT · Google AI Studio · Perplexity AI· Grok AI· Deepseek AI· Blackbox AI.
+**AI & APIs:** Gemini API · Claude API · ChatGPT · Google AI Studio · Perplexity AI · Grok AI · DeepSeek AI · Blackbox AI
 
-**Specialisations:** AI Workflow Automation · Prompt Engineering · Agent Design · LLM Integration· Integration of Practical cost effect solution for Emerging Startups & Sick Unit's.
+**Specialisations:** AI Workflow Automation · Prompt / Context Engineering · Agent Design · LLM Integration · Practical, cost-effective systems for emerging startups & turnaround/sick units
 
 <div align="center">
 
@@ -82,9 +96,9 @@ This gives me an edge:
 ## 🚀 Featured Projects
 
 ### [AI Studio — 99 Pages in 3 Prompts](https://github.com/SNTL84/ai-studio-99page-generator)
-Rapid multi-page web app generation using Gemini AI Studio. TypeScript · Vite · structured  prompting.
+Rapid multi-page web app generation using Gemini AI Studio. TypeScript · Vite · structured prompting.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![ API](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white) ![AI Studio](https://img.shields.io/badge/AI_Studio-FF6F00?style=flat-square&logo=google&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white) ![AI Studio](https://img.shields.io/badge/AI_Studio-FF6F00?style=flat-square&logo=google&logoColor=white)
 
 ### [DesiDevloper Services Page](https://github.com/SNTL84/desidevloper-services-page)
 Full-service developer portfolio and services landing page built for client conversion.
@@ -103,7 +117,7 @@ Agentic skills framework and AI-assisted software development methodology.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Live Counter
 
 <div align="center">
 
@@ -122,6 +136,10 @@ Agentic skills framework and AI-assisted software development methodology.
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SNTL84&label=Profile+Views&color=00d4ff&style=for-the-badge)
+
+<br/>
+
+📈 For a live, auto-updating repo counter and full repo table, see: **[sntl84-repo-counter](https://github.com/SNTL84/sntl84-repo-counter)**
 
 </div>
 
