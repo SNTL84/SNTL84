@@ -6,7 +6,7 @@
 
 <img src="https://avatars.githubusercontent.com/u/133500636?v=4" width="120" style="border-radius:50%;" alt="SNTL 84 avatar">
 
-# SNTL 84 — Strategic AI Workflow Professional & Automation Professional | Bridging Real-World Business Supply Chains with Intelligent Systems.
+# SNTL 84 — Strategic AI Workflow & Automation Professional | Bridging Real-World Business Supply Chains with Intelligent Systems.
 
 **I'm Milan**, a Strategic AI Workflow Professional based in Surat, India, building automation tools, AI-powered apps, and full-stack solutions for founders, agencies, and businesses.
 
