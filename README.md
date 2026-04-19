@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=SNTL%2084&fontSize=60&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Strategic%20A GENTIC AI%20Workflow%20Developer%20%26%20Automation%20Professional&descAlignY=55&descSize=16&descColor=a0a0b0" alt="SNTL 84 " />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=SNTL%2084&fontSize=60&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Strategic%20A GENTIC AI%20Workflow%Professional %20%26%20Automation%20Professional&descAlignY=55&descSize=16&descColor=a0a0b0" alt="SNTL 84 " />
 
 <br/>
 
 <img src="https://avatars.githubusercontent.com/u/133500636?v=4" width="120" style="border-radius:50%;" alt="SNTL 84 avatar">
 
-# SNTL 84 — Strategic AI Workflow Developer & Automation Professional | Bridging Real-World Business Supply Chains with Intelligent Systems.
+# SNTL 84 — Strategic AI Workflow Professional & Automation Professional | Bridging Real-World Business Supply Chains with Intelligent Systems.
 
-**I'm Milan**, a Strategic AI Workflow Developer based in Surat, India, building automation tools, AI-powered apps, and full-stack solutions for founders, agencies, and businesses.
+**I'm Milan**, a Strategic AI Workflow Professional based in Surat, India, building automation tools, AI-powered apps, and full-stack solutions for founders, agencies, and businesses.
 
 I operate under the brand **SNTL 84**, combining deep expertise in AI orchestration with real-world business systems experience across distribution, supply chain, and operations.
 
@@ -18,7 +18,7 @@ Open to freelance gigs, project collabs, and AI workflow consulting.
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=700&height=60&lines=AI+Workflow+Developer+%7C+Automation+Pro;Building+the+future%2C+one+automation+at+a+time.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=700&height=60&lines=AI+Workflow+Professional+%7C+Automation+Pro;Building+the+future%2C+one+automation+at+a+time.)](https://git.io/typing-svg)
 
 </div>
 
@@ -26,7 +26,7 @@ Open to freelance gigs, project collabs, and AI workflow consulting.
 
 ## 🧠 Who I Am
 
-- Most developers learn to code and build apps.
+- Most Professional learn to code and build apps.
 
 I learned in & out of Bpo Industry which led me to operations first.
 
@@ -82,9 +82,9 @@ This gives me an edge:
 ## 🚀 Featured Projects
 
 ### [AI Studio — 99 Pages in 3 Prompts](https://github.com/SNTL84/ai-studio-99page-generator)
-Rapid multi-page web app generation using Gemini AI Studio. TypeScript · Vite · structured AI prompting.
+Rapid multi-page web app generation using Gemini AI Studio. TypeScript · Vite · structured  prompting.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white) ![AI Studio](https://img.shields.io/badge/AI_Studio-FF6F00?style=flat-square&logo=google&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![ API](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white) ![AI Studio](https://img.shields.io/badge/AI_Studio-FF6F00?style=flat-square&logo=google&logoColor=white)
 
 ### [DesiDevloper Services Page](https://github.com/SNTL84/desidevloper-services-page)
 Full-service developer portfolio and services landing page built for client conversion.
@@ -133,8 +133,8 @@ Agentic skills framework and AI-assisted software development methodology.
 |---|---|
 | AI Workflow Automation | Build AI-powered pipelines for repetitive business tasks |
 | Web App Development | Full-stack TypeScript / React / Vite apps |
-| Prompt Engineering | System prompts, agent design, LLM integration |
-| Virtual Assistant Builds | Custom AI assistants for business use |
+| Prompt / Context Engineering | System prompts, agent design, LLM integration |
+| Virtual Assistant Builds | Custom assistants for business use |
 | Data Automation | LinkedIn, FMCG ops, supply chain data workflows |
 
 **Ready to hire?** [desidevloper.com](https://desidevloper.com) · [WhatsApp](https://wa.me/919727413309)
