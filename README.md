@@ -1,45 +1,92 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=SNTL%2084&fontSize=60&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Strategic%20Agentic%20AI%20Workflow%20%26%20Automation%20Professional&descAlignY=55&descSize=16&descColor=a0a0b0" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:01696f,100:0d1117&height=180&section=header&text=SNTL%2084%20%E2%80%94%20Milan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=I%20Automate%20What%27s%20Costing%20You%20Money&descAlignY=58&descSize=17&descColor=4f98a3" />
 </div>
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/133500636?v=4" width="120" style="border-radius: 50%;" />
-  <h1>SNTL 84 — Strategic AI Workflow & Automation Professional</h1>
-  <p><b>I'm Milan</b>, a Strategic AI Workflow Professional based in Surat, India, building automation systems, AI-powered apps, and full-stack solutions for founders, agencies, and businesses.</p>
-  <p><b><a href="https://desidevloper.com/">Hire me → desidevloper.com</a></b></p>
+  <a href="https://desidevloper.com"><img src="https://img.shields.io/badge/Hire%20Me-desidevloper.com-01696f?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+  <a href="https://wa.me/919727413309"><img src="https://img.shields.io/badge/WhatsApp-919727413309-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="mailto:3goldenlotusroots@gmail.com"><img src="https://img.shields.io/badge/Email-3goldenlotusroots%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
-<div align="center">
-  <img src="https://git.io/typing-svg?font=Inter&weight=600&size=24&pause=1000&color=00d4ff&center=true&vCenter=true&width=600&lines=Automate+What's+Costing+You+Money.;Building+the+Future+of+AI+Workflows.;From+Prompt+to+Production." />
-</div>
+---
 
-## 🧠 Who I Am
-Most developers learn to code first and only later see real operations. I did the opposite: I spent years inside BPO, FMCG, retail, and telecom operations before writing code. I understand business problems, not just technical solutions.
+## 🎯 Who I Help
 
-## ⚙️ What I Build
-* • **AI Systems & Agents** — Custom agentic workflows, recruitment screening, and business intelligence.
-* • **Full-Stack Apps** — Production-ready web applications built with TypeScript, React, and Node.js.
-* • **Automation Pipelines** — Lead enrichment, sales outreach, and backoffice OS.
+Founders, agency owners, and SMB operators in **India and globally** who are losing hours every week to manual work — hiring, lead generation, operations, reporting — and need someone who can turn that into an automated system fast.
 
-## 🚀 Featured Projects
+---
 
-### [DesiDevloper Services Live Demo](https://github.com/SNTL84/sntl84-desidevloper-live-demo)
-🚀 High-conversion services page with "Automate What's Costing You Money" branding, premium animations, and video demo credits.
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+## 🚀 What I Deliver
 
-### [AI Studio — 99 Pages in 3 Prompts](https://github.com/SNTL84/ai-studio-99page-generator)
-Rapid multi-page web app generation using Gemini AI Studio.
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-
-## 💼 Services I Offer
-| Service | Description |
+| Deliverable | What You Get |
 |---|---|
-| AI Workflow Automation | Build AI-powered pipelines for repetitive tasks |
-| Web App Development | Full-stack TypeScript / React / Vite apps |
-| Agentic Design | System prompts, agent design, LLM integration |
+| **AI Hiring System** | Auto-score resumes, generate shortlists, cut screening time by 80%+ |
+| **Lead Enrichment Agent** | Enrich startup/B2B leads with founder names, funding stage, LinkedIn — no manual research |
+| **Backoffice OS** | Attendance, payroll, petty cash, field visits — one dashboard, zero spreadsheet chaos |
+| **Full-Stack Web Apps** | Production-ready TypeScript + React apps, deployed and live |
+| **AI Workflow Automation** | n8n · Zapier · custom pipelines for any repetitive business process |
 
-**Ready to ship?** [desidevloper.com](https://desidevloper.com/) · [WhatsApp](https://wa.me/919727413309)
+---
+
+## ⚡ Why I'm Different
+
+Most developers build what you ask. **I understand operations first** — I've worked inside BPO, FMCG, retail, and telecom before writing a single line of code. That means I design systems that actually match how a real business runs, not just what looks good in a demo.
+
+> *"From prompt to production — without 6 weeks and a project manager."*
+
+---
+
+## 📊 Results Section — Real Wins With Numbers
+
+> Built for founders, SMBs, and operators. Every number below is from a real project.
+
+| What I Built | Client / Context | Result |
+|---|---|---|
+| **AI Hiring Intelligence System** | B2B hiring workflow | Resume screening time cut from **4 hrs → 45 min/day** (~80% reduction) |
+| **Backoffice OS Dashboard** | SMB internal ops | Replaced 3 separate spreadsheets → **1 unified dashboard**, saving ~6 hrs/week admin overhead |
+| **Lead Enrichment Agent** | Startup outreach pipeline | Manual research per lead: **45 min → 3 min** (93% faster) |
+| **Multilingual Statement Generator** | Client conversion toolkit | 29 statements × 39 languages = **1,131 translations generated in one run** vs. days of manual translation |
+| **Business Intelligence Push** | B2B trade directory | **264 services across 22 industries** categorized and published from raw data in under 2 hours |
+| **Coral Heights Vehicle Registration** | Housing society (Surat) | Trilingual web form → **WhatsApp-native submission** replacing paper registers completely |
+| **99-Page Generator (AI Studio)** | Personal productivity | Full multi-page web app from **3 prompts in ~15 minutes** (vs. ~2 days traditional dev) |
+
+---
+
+## 🔥 Flagship Open-Source Project
+
+### → [`n8n-india-smb-workflow-templates`](https://github.com/SNTL84/n8n-india-smb-workflow-templates)
+Ready-to-import n8n workflow templates built specifically for Indian SMBs — WhatsApp lead capture, GST invoice automation, Razorpay payment notifications, and more. **Star it if you find it useful.**
+
+---
+
+## 🛠️ Tech Stack
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+---
+
+## 📌 Featured Repos
+
+| Repo | What It Does |
+|---|---|
+| [🤖 AI Hiring Intel](https://github.com/SNTL84/sntl84-ai-hiring-intel) | AI-powered resume screener — scores candidates, kills bad hires |
+| [🏢 Backoffice OS](https://github.com/SNTL84/sntl84-backoffice-os) | Attendance · Payroll · Petty Cash · Field Visits dashboard |
+| [🚀 Lead Enrichment Agent](https://github.com/SNTL84/ai-lead-enrichment-agent) | Auto-enriches B2B leads with founder + funding data |
+| [🌍 Multilingual Statement Gen](https://github.com/SNTL84/sntl84-multilingual-statement-generator) | 29 statements × 39 languages → export to .xlsx in one click |
+| [📊 Business Intelligence Push](https://github.com/SNTL84/sntl84-business-intelligence-push) | 264 services · 22 industries · full B2B trade directory |
+| [🔧 n8n SMB Workflow Templates](https://github.com/SNTL84/n8n-india-smb-workflow-templates) | ⭐ Ready-to-use n8n templates for Indian SMBs |
+
+---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer" />
+  <b>Want something like this for your business? → <a href="https://desidevloper.com/contact">desidevloper.com/contact</a></b>
+  <br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:01696f,100:0d1117&height=80&section=footer" />
 </div>
