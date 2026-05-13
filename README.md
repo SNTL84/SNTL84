@@ -3,9 +3,12 @@
 </div>
 
 <div align="center">
-  <a href="https://desidevloper.com"><img src="https://img.shields.io/badge/Hire%20Me-desidevloper.com-01696f?style=for-the-badge&logo=firefox&logoColor=white" /></a>
-  <a href="https://wa.me/919727413309"><img src="https://img.shields.io/badge/WhatsApp-919727413309-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://desidevloper.com"><img src="https://img.shields.io/badge/Website-desidevloper.com-01696f?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sntl2784"><img src="https://img.shields.io/badge/LinkedIn-SNTL2784-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://wa.me/919727413309"><img src="https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   <a href="mailto:3goldenlotusroots@gmail.com"><img src="https://img.shields.io/badge/Email-3goldenlotusroots%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.instagram.com/desibiztrade"><img src="https://img.shields.io/badge/Instagram-@desibiztrade-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://aratt.ai/user/@desidevloper"><img src="https://img.shields.io/badge/Arrattai-@desidevloper-4f98a3?style=for-the-badge&logo=ai&logoColor=white" /></a>
 </div>
 
 ---
