@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:01696f,100:0d1117&height=180&section=header&text=SNTL%2084%20%E2%80%94%20Milan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%20Automate%20What%27s%20Costing%20You%20Money&descAlignY=58&descSize=17&descColor=4f98a3" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:01696f,100:0d1117&height=350&section=header&text=SNTL%2084%20%E2%80%94%20Milan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%20Automate%20What%27s%20Costing%20You%20Money&descAlignY=58&descSize=17&descColor=4f98a3" />
 </div>
 
 <div align="center">
@@ -85,6 +85,11 @@ Ready-to-import n8n workflow templates built specifically for Indian SMBs — Wh
 | [🌍 Multilingual Statement Gen](https://github.com/SNTL84/sntl84-multilingual-statement-generator) | 29 statements × 39 languages → export to .xlsx in one click |
 | [📊 Business Intelligence Push](https://github.com/SNTL84/sntl84-business-intelligence-push) | 264 services · 22 industries · full B2B trade directory |
 | [🔧 n8n SMB Workflow Templates](https://github.com/SNTL84/n8n-india-smb-workflow-templates) | ⭐ Ready-to-use n8n templates for Indian SMBs |
+| [📞 WhatsApp Outreach Tool](https://github.com/SNTL84/whatsapp-outreach-tool) | Bulk WhatsApp outreach · custom messages · VCF export · instant WA links |
+| [🧠 FMCG Lead Intelligence](https://github.com/SNTL84/sntl84-fmcg-lead-intel) | n8n + Claude AI · scrape → score → draft WhatsApp/email → send |
+| [🤖 Agentic Recruiter](https://github.com/SNTL84/sntl84-agentic-recruiter) | AI-powered recruitment screening · 60% cost reduction in hiring |
+| [🌐 DesiDeveloper Portfolio](https://github.com/SNTL84/desidevloper) | Full-stack React portfolio · trade directory · Vite · React Router · Hostinger |
+| [🔧 Smart Hiring System](https://github.com/SNTL84/sntl84-hiring-system) | Smart job board & candidate portal · Vercel-ready · zero API cost |
 
 ---
 
