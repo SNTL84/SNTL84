@@ -5,7 +5,9 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SNTL84/SNTL84/main/assets/SNTL-84.jpg" alt="SNTL 84 — Systems That Scale. Results That Last. Growth That Compounds." width="720" style="border-radius:12px; max-width:100%;" />
+  <a href="https://desidevloper.com">
+    <img src="https://raw.githubusercontent.com/SNTL84/SNTL84/main/assets/SNTL-84.jpg" alt="SNTL 84 — Systems That Scale. Results That Last. Growth That Compounds." width="720" />
+  </a>
 </div>
 
 ---
