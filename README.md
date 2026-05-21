@@ -2,6 +2,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:01696f,100:0d1117&height=350&section=header&text=SNTL%2084%20%E2%80%94%20Milan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%20Automate%20What%27s%20Costing%20You%20Money&descAlignY=58&descSize=17&descColor=4f98a3" />
 </div>
 
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SNTL84/SNTL84/main/assets/SNTL-84.jpg" alt="SNTL 84 — Systems That Scale. Results That Last. Growth That Compounds." width="720" style="border-radius:12px; max-width:100%;" />
+</div>
+
+---
+
 <div align="center">
   <a href="https://desidevloper.com"><img src="https://img.shields.io/badge/Website-desidevloper.com-01696f?style=for-the-badge&logo=firefox&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/sntl2784"><img src="https://img.shields.io/badge/LinkedIn-SNTL2784-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
