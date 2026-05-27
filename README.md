@@ -23,6 +23,10 @@
 
 ---
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SNTL84/Tragad-Soni-Website-Roadmap/main/assets/Optimised-SNTL-84-MetroMate-umbrella.jpg" alt="SNTL84 × MetroMate — B2B & B2C Lead Generation Services" width="720" />
+</div>
+
 ## 🎯 Who I Help
 
 Founders, agency owners, and SMB operators in **India and globally** who are losing hours every week to manual work — hiring, lead generation, operations, reporting — and need someone who can turn that into an automated system fast.
