@@ -24,24 +24,36 @@
 ---
 
 <div align="center">
+
+### 💬 Ready to stop losing hours every week to manual work?
+**[→ Book a Free 20-Min Strategy Call](https://wa.me/919727413309?text=Hi%20SNTL84%2C%20I%20want%20a%20free%20strategy%20call)** &nbsp;|&nbsp; **[→ See Live Projects](https://desidevloper.com)**
+
+</div>
+
+---
+
+<div align="center">
   <img src="https://raw.githubusercontent.com/SNTL84/Tragad-Soni-Website-Roadmap/main/assets/Optimised-SNTL-84-MetroMate-umbrella.jpg" alt="SNTL84 × MetroMate — B2B & B2C Lead Generation Services" width="720" />
 </div>
 
 ## 🎯 Who I Help
 
-Founders, agency owners, and SMB operators in **India and globally** who are losing hours every week to manual work — hiring, lead generation, operations, reporting — and need someone who can turn that into an automated system fast.
+Founders, agency owners, and SMB operators in **India and globally** who are losing hours every week to manual work — hiring, lead generation, operations, reporting — and need someone who can turn that into an automated system **fast**.
+
+> **If your team is still copy-pasting data, chasing approvals on WhatsApp, or screening resumes by hand — this profile is for you.**
 
 ---
 
 ## 🚀 What I Deliver
 
-| Deliverable | What You Get |
-|---|---|
-| **AI Hiring System** | Auto-score resumes, generate shortlists, cut screening time by 80%+ |
-| **Lead Enrichment Agent** | Enrich startup/B2B leads with founder names, funding stage, LinkedIn — no manual research |
-| **Backoffice OS** | Attendance, payroll, petty cash, field visits — one dashboard, zero spreadsheet chaos |
-| **Full-Stack Web Apps** | Production-ready TypeScript + React apps, deployed and live |
-| **AI Workflow Automation** | n8n · Zapier · custom pipelines for any repetitive business process |
+| Deliverable | What You Get | Typical Timeline |
+|---|---|---|
+| **AI Hiring System** | Auto-score resumes, generate shortlists, cut screening time by 80%+ | 3–5 days |
+| **Lead Enrichment Agent** | Enrich startup/B2B leads with founder names, funding stage, LinkedIn — no manual research | 2–4 days |
+| **Backoffice OS** | Attendance, payroll, petty cash, field visits — one dashboard, zero spreadsheet chaos | 5–7 days |
+| **Residential Society Suite** | Parking management · vehicle registration · trilingual dashboards — fully paperless | 2–3 days |
+| **Full-Stack Web Apps** | Production-ready TypeScript + React apps, deployed and live | 7–14 days |
+| **AI Workflow Automation** | n8n · Zapier · custom pipelines for any repetitive business process | 3–7 days |
 
 ---
 
@@ -53,7 +65,7 @@ Most developers build what you ask. **I understand operations first** — I've w
 
 ---
 
-## 📊 Results Section — Real Wins With Numbers
+## 📊 Real Results — Real Numbers
 
 > Built for founders, SMBs, and operators. Every number below is from a real project.
 
@@ -64,8 +76,26 @@ Most developers build what you ask. **I understand operations first** — I've w
 | **Lead Enrichment Agent** | Startup outreach pipeline | Manual research per lead: **45 min → 3 min** (93% faster) |
 | **Multilingual Statement Generator** | Client conversion toolkit | 29 statements × 39 languages = **1,131 translations generated in one run** vs. days of manual translation |
 | **Business Intelligence Push** | B2B trade directory | **264 services across 22 industries** categorized and published from raw data in under 2 hours |
+| **MetroMate — Parking Suite** | Coral Heights, Surat | Trilingual registration + live dashboard → **42 flats, zero paper, WhatsApp-native** |
 | **Coral Heights Vehicle Registration** | Housing society (Surat) | Trilingual web form → **WhatsApp-native submission** replacing paper registers completely |
 | **99-Page Generator (AI Studio)** | Personal productivity | Full multi-page web app from **3 prompts in ~15 minutes** (vs. ~2 days traditional dev) |
+
+---
+
+## 🏙️ Latest Project — MetroMate
+
+> **Residential Parking Management. Automated. Intelligent. Paperless.**
+
+Housing societies bleed money every month — unregistered vehicles, sticker fraud, parking disputes, and committee members wasting hours on paper forms. **MetroMate kills all of that.**
+
+| Before MetroMate | After MetroMate |
+|---|---|
+| 📄 Paper forms lost in letterboxes | ✅ Digital form, WhatsApp submission instant |
+| ❓ Unknown who owns which vehicle | ✅ Master register with reg numbers, models, colours |
+| 🌐 Residents struggle with English-only forms | ✅ English + Gujarati + Hindi in one form |
+| 🔢 Manual count of cars vs. slots | ✅ Live deficit/surplus dashboard auto-calculates |
+
+**→ [`SNTL84/MetroMate`](https://github.com/SNTL84/MetroMate)** — Star it ⭐ if you manage a housing society or know someone who does.
 
 ---
 
@@ -93,6 +123,7 @@ Ready-to-import n8n workflow templates built specifically for Indian SMBs — Wh
 
 | Repo | What It Does |
 |---|---|
+| [🏙️ MetroMate](https://github.com/SNTL84/MetroMate) | **NEW ✨** Residential parking management · trilingual forms · WhatsApp-native · zero paper |
 | [🤖 AI Hiring Intel](https://github.com/SNTL84/sntl84-ai-hiring-intel) | AI-powered resume screener — scores candidates, kills bad hires |
 | [🏢 Backoffice OS](https://github.com/SNTL84/sntl84-backoffice-os) | Attendance · Payroll · Petty Cash · Field Visits dashboard |
 | [🚀 Lead Enrichment Agent](https://github.com/SNTL84/ai-lead-enrichment-agent) | Auto-enriches B2B leads with founder + funding data |
@@ -107,8 +138,20 @@ Ready-to-import n8n workflow templates built specifically for Indian SMBs — Wh
 
 ---
 
+## 🤝 Work With Me
+
+> **3 ways to start — choose what fits:**
+
+| Option | Best For | Action |
+|---|---|---|
+| 💬 **WhatsApp** | Quick brief, fast quote | [Chat Now →](https://wa.me/919727413309?text=Hi%20SNTL84%2C%20I%20want%20to%20discuss%20a%20project) |
+| 🌐 **Website** | See full services + portfolio | [desidevloper.com →](https://desidevloper.com) |
+| 📧 **Email** | Detailed briefs, formal inquiry | [3goldenlotusroots@gmail.com →](mailto:3goldenlotusroots@gmail.com) |
+
+---
+
 <div align="center">
-  <b>Want something like this for your business? → <a href="https://desidevloper.com/contact">desidevloper.com/contact</a></b>
+  <b>Seen enough? → <a href="https://wa.me/919727413309?text=Hi%20SNTL84%2C%20I%20want%20to%20automate%20my%20business">WhatsApp me now</a> and let's build your system.</b>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:01696f,100:0d1117&height=80&section=footer" />
 </div>
