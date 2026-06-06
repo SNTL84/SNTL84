@@ -1,8 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:01696f,100:0d1117&height=350&section=header&text=SNTL%2084%20%E2%80%94%20Milan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%20Automate%20What%27s%20Costing%20You%20Money&descAlignY=58&descSize=17&descColor=4f98a3" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:01696f,100:0d1117&height=360&section=header&text=SNTL%2084%20%E2%80%94%20Milan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Automate%20What%27s%20Costing%20You%20Money%20%E2%80%94%20Systems%20That%20Scale&descAlignY=58&descSize=18&descColor=4f98a3" />
 </div>
-
----
 
 <div align="center">
   <a href="https://desidevloper.com">
@@ -13,13 +11,17 @@
 ---
 
 <div align="center">
-  <a href="https://desidevloper.com"><img src="https://img.shields.io/badge/Website-desidevloper.com-01696f?style=for-the-badge&logo=firefox&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/sntl2784"><img src="https://img.shields.io/badge/LinkedIn-SNTL2784-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://wa.me/919727413309"><img src="https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  <a href="mailto:3goldenlotusroots@gmail.com"><img src="https://img.shields.io/badge/Email-3goldenlotusroots%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.instagram.com/desibiztrade"><img src="https://img.shields.io/badge/Instagram-@desibiztrade-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://aratt.ai/user/@desidevloper"><img src="https://img.shields.io/badge/Arrattai-@desidevloper-4f98a3?style=for-the-badge&logo=ai&logoColor=white" /></a>
-  <a href="https://github.com/SNTL84"><img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work%20→-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+## 🔗 Connect & Contact
+
+[![Website](https://img.shields.io/badge/🌐%20Website-desidevloper.com-01696f?style=for-the-badge&logoColor=white)](https://desidevioper.com)
+[![WhatsApp](https://img.shields.io/badge/💬%20WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919727413309)
+[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-SNTL2784-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sntl2784)
+[![Email](https://img.shields.io/badge/📧%20Email-3goldenlotusroots%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:3goldenlotusroots@gmail.com)
+[![Instagram](https://img.shields.io/badge/📸%20Instagram-@desibiztrade-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/desibiztrade)
+[![Arrattai](https://img.shields.io/badge/🤖%20Arrattai-@desidevloper-4f98a3?style=for-the-badge&logoColor=white)](https://aratt.ai/user/@desidevloper)
+[![GitHub](https://img.shields.io/badge/🐙%20GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SNTL84)
+
 </div>
 
 ---
@@ -27,7 +29,8 @@
 <div align="center">
 
 ### 💬 Ready to stop losing hours every week to manual work?
-**[→ Book a Free 20-Min Strategy Call](https://wa.me/919727413309?text=Hi%20SNTL84%2C%20I%20want%20a%20free%20strategy%20call)** &nbsp;|&nbsp; **[→ See Live Projects](https://desidevloper.com)**
+
+**[→ Book a Free 20-Min Strategy Call via WhatsApp](https://wa.me/919727413309?text=Hi%20SNTL84%2C%20I%20want%20a%20free%20strategy%20call)** &nbsp;|&nbsp; **[→ See Live Projects](https://desidevioper.com)**
 
 </div>
 
@@ -36,6 +39,8 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/SNTL84/Tragad-Soni-Website-Roadmap/main/assets/Optimised-SNTL-84-MetroMate-umbrella.jpg" alt="SNTL84 × MetroMate — B2B & B2C Lead Generation Services" width="720" />
 </div>
+
+---
 
 ## 🎯 Who I Help
 
@@ -146,7 +151,7 @@ Ready-to-import n8n workflow templates built specifically for Indian SMBs — Wh
 | Option | Best For | Action |
 |---|---|---|
 | 💬 **WhatsApp** | Quick brief, fast quote | [Chat Now →](https://wa.me/919727413309?text=Hi%20SNTL84%2C%20I%20want%20to%20discuss%20a%20project) |
-| 🌐 **Website** | See full services + portfolio | [desidevloper.com →](https://desidevloper.com) |
+| 🌐 **Website** | See full services + portfolio | [desidevioper.com →](https://desidevioper.com) |
 | 📧 **Email** | Detailed briefs, formal inquiry | [3goldenlotusroots@gmail.com →](mailto:3goldenlotusroots@gmail.com) |
 
 ---
@@ -154,5 +159,5 @@ Ready-to-import n8n workflow templates built specifically for Indian SMBs — Wh
 <div align="center">
   <b>Seen enough? → <a href="https://wa.me/919727413309?text=Hi%20SNTL84%2C%20I%20want%20to%20automate%20my%20business">WhatsApp me now</a> and let's build your system.</b>
   <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:01696f,100:0d1117&height=80&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:01696f,100:0d1117&height=100&section=footer" />
 </div>
