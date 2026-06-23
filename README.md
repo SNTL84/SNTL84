@@ -1,251 +1,457 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=f5a623,1a1a2e&height=220&section=header&text=SNTL84&fontSize=90&fontColor=ffffff&fontAlignY=36&desc=Systems%20That%20Scale.%20Results%20That%20Last.&descAlignY=58&descAlign=50&animation=fadeIn" width="100%"/>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/SNTL84/SNTL84/main/assets/SNTL-84-github.jpg" alt="SNTL84 Banner" width="85%"/>
-
-<br/><br/>
-
-[![SNTL84](https://img.shields.io/badge/SNTL84-Core%20Identity-f5a623?style=for-the-badge&logo=lightning&logoColor=white)](https://github.com/SNTL84)
-[![MetroMate](https://img.shields.io/badge/MetroMate-Web%20Dev%20Services-1a1a2e?style=for-the-badge&logo=vercel&logoColor=white)](https://desidevloper.com)
-[![Made in India](https://img.shields.io/badge/Made%20in-India%20%F0%9F%87%AE%F0%9F%87%B3-FF9933?style=for-the-badge)](https://wa.me/919727413309)
-
-<br/>
-
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://github.com/SNTL84)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://github.com/SNTL84)
-[![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://github.com/SNTL84)
-[![React](https://img.shields.io/badge/React%20%2F%20Next.js-61DAFB?style=flat-square&logo=react&logoColor=black)](https://desidevloper.com)
-[![Node.js](https://img.shields.io/badge/Node.js-Backend-339933?style=flat-square&logo=node.js&logoColor=white)](https://github.com/SNTL84)
-[![Supabase](https://img.shields.io/badge/Supabase-DB-3ECF8E?style=flat-square&logo=supabase&logoColor=white)](https://github.com/SNTL84)
-[![License: MIT](https://img.shields.io/badge/License-MIT-22c55e?style=flat-square)](https://github.com/SNTL84/sntl84-core-identity/blob/main/LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-ff69b4?style=flat-square)](https://github.com/SNTL84/sntl84-core-identity/blob/main/CONTRIBUTING.md)
-
-<br/>
-
-[![Website](https://img.shields.io/badge/%F0%9F%8C%90%20desidevloper.com-Visit%20Now-f5a623?style=for-the-badge)](https://desidevloper.com)
-[![WhatsApp](https://img.shields.io/badge/%F0%9F%92%AC%20WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919727413309)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sntl2784-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sntl2784)
-[![GitHub](https://img.shields.io/badge/GitHub-SNTL84-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SNTL84)
-
-<br/>
-
-[![Instagram](https://img.shields.io/badge/Instagram-%40desibiztrade-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/desibiztrade)
-[![YouTube](https://img.shields.io/badge/YouTube-%40SNTL84-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@SNTL84)
-[![Arattai](https://img.shields.io/badge/Arattai-%40desidevloper-7c3aed?style=flat-square&logo=discourse&logoColor=white)](https://aratt.ai/user/@desidevloper)
-[![Email](https://img.shields.io/badge/Email-3goldenlotusroots-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:3goldenlotusroots@gmail.com)
-
-<br/><br/>
-
-> **⚡ Full-Stack Developer · AI Workflow Architect · B2B Automation Specialist**  
-> Building scalable digital tools for Indian industry — from quotation engines to trade intelligence.  
->
-> 🏢 **[MetroMate Web Development Services](https://desidevloper.com)** · Sachin, Surat, Gujarat, India 🇮🇳
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001f3f,25:005a96,50:01696f,75:01a89f,100:0d1117&height=320&section=header&text=SNTL%2084&desc=Milan%20%E2%80%A2%20AI%20Workflow%20Developer&fontSize=60&fontColor=ffffff&animation=fadeIn&descSize=25&descAlign=62" />
 </div>
-
----
-
-## 🧭 Who Is SNTL84?
-
-**Milan (SNTL84)** is a self-taught full-stack developer and AI workflow professional based in **Sachin, Gujarat, India**. Operating under the brand **MetroMate Web Development Services**, the focus is on building zero-dependency industrial tools, B2B trade intelligence systems, and automated business workflows — all tailored for the Indian market.
-
-> _"Automate What's Costing You Money."_
-
----
-
-## 🌐 Connect Everywhere
 
 <div align="center">
-
-| Platform | Handle | Link |
-|----------|--------|------|
-| 🌐 **Website** | desidevloper.com | [Visit](https://desidevloper.com) |
-| 💬 **WhatsApp** | +91 97274 13309 | [Chat Now](https://wa.me/919727413309) |
-| 🔗 **LinkedIn** | sntl2784 | [Connect](https://linkedin.com/in/sntl2784) |
-| 💻 **GitHub** | SNTL84 | [View Repos](https://github.com/SNTL84) |
-| 📸 **Instagram** | @desibiztrade | [Follow](https://instagram.com/desibiztrade) |
-| 🔴 **YouTube** | @SNTL84 | [Subscribe](https://youtube.com/@SNTL84) |
-| 🟣 **Arattai** | @desidevloper | [Profile](https://aratt.ai/user/@desidevloper) |
-| 📧 **Email** | 3goldenlotusroots@gmail.com | [Write](mailto:3goldenlotusroots@gmail.com) |
-
+  <a href="https://desidevloper.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/SNTL84/SNTL84/main/assets/SNTL-84.jpg" alt="SNTL 84 — AI Automation • Full-Stack • Business Intelligence" width="900" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(1, 105, 111, 0.2);" />
+  </a>
 </div>
-
----
-
-## 🗂️ Repository Map
-
-<div align="center">
-
-```
-sntl84-core-identity/
-│
-├── 📄 Quote-Generator.html                          # 🔑 Premium Platform Scale Configurator
-├── 📄 SNTL84_multilingual_statement_generator.html  # 🌍 Multilingual Business Statement Tool
-├── 📄 index.html                                    # 🏠 Core Identity / Portfolio Landing Page
-├── 📊 FMCG_Beverage_Exhibition_Calendar_v2.xlsx     # 🥤 FMCG Trade Event Intelligence
-├── 📊 FoodGrain_Exhibition_Intel_SNTL84.xlsx        # 🌾 FoodGrain Exhibition Data
-├── 📊 business_events_2025_2026.xlsx                # 📅 B2B Business Events Calendar
-├── 📊 gold_gems_jewellery_events_2025_2026.xlsx     # 💎 Gems & Jewellery Trade Calendar
-├── 📄 sample-data.json                              # 🔧 Sample Data for Testing
-├── 📝 linkedin-profile-and-posts.md                # 🔗 LinkedIn Content Strategy
-├── 📝 milan_portfolio_setup.md                     # 🎨 Portfolio Setup Notes
-├── 📝 CONTRIBUTING.md                              # 🤝 Contribution Guidelines
-├── 📝 DEVELOPER-CREDITS.md                         # 👤 Developer Credits
-├── 📄 LICENSE                                      # ⚖️ MIT License
-├── 📁 assets/                                      # 🖼️ Brand Images & Media
-├── 📁 .github/                                     # 🔧 Issue & PR Templates
-└── 📁 SNTL84GOOGLESHEETSCATEGORYVIEW/              # 📋 Google Sheets Category View
-```
-
-</div>
-
----
-
-## ⚡ Flagship: Premium Platform Scale Configurator
-
-> A **zero-dependency, single-file HTML application** for industrial weighing scale dealers and distributors. No installation. No login. No server. Just open and quote.
-
-### ✨ Features
-
-| Feature | Description |
-|---------|-------------|
-| ⚡ **Zero Dependencies** | Single `.html` file — open in any browser, offline capable |
-| 🔧 **Full Configurator** | Capacity, platform size/material, structure, indicator, load cells |
-| 💸 **Live Pricing** | Base price + NABL + GST 18% + freight, real-time updates |
-| 📄 **PDF Generation** | Client-ready quote with model, specs, itemised price, Quote ID |
-| 📱 **WhatsApp Share** | One-click deep link to customer's number |
-| 📋 **Copy to Clipboard** | Plain-text summary for quick pasting |
-| 🏅 **NABL Calibration** | Optional certificate add-on (₹1,500) |
-| 📐 **Responsive Design** | 3-column desktop → single-column mobile |
-| 🎨 **Premium Dark-Gold UI** | SNTL84 brand aesthetic |
-
-### 🚀 Quick Start
-
-```bash
-git clone https://github.com/SNTL84/sntl84-core-identity.git
-open Quote-Generator.html
-```
-
-> ✅ Chrome, Firefox, Edge, Safari — no npm, no build step, no server.
-
----
-
-## 🌍 Multilingual Statement Generator
-
-**`SNTL84_multilingual_statement_generator.html`** — A self-contained HTML tool for generating professional business statements in multiple Indian and international languages. Ideal for trade communications and B2B correspondence.
-
----
-
-## 📊 Trade Intelligence Datasets
-
-<div align="center">
-
-| File | Sector | Coverage |
-|------|--------|----------|
-| `FMCG_Beverage_Exhibition_Calendar_v2.xlsx` | 🥤 FMCG & Beverages | 2025–2026 Exhibitions |
-| `FoodGrain_Exhibition_Intel_SNTL84.xlsx` | 🌾 Food Grains | Exhibition Intelligence |
-| `business_events_2025_2026.xlsx` | 🏢 General B2B | Full Events Calendar |
-| `gold_gems_jewellery_events_2025_2026.xlsx` | 💎 Gold, Gems & Jewellery | Trade Show Calendar |
-
-</div>
-
-> 📌 Custom trade intelligence requests → [WhatsApp](https://wa.me/919727413309)
-
----
-
-## ⚙️ Scale Configuration Reference
-
-### Model Codes
-
-```
-MMP → 200–400mm   (Mini/Medium Platform)
-MDP → 500mm       (Medium Duty Platform)
-MRP → 600mm       (Medium Robust Platform)
-MHP → 750–800mm   (Heavy Platform)
-MJP → 1000–2500mm (Jumbo Platform)
-
-Format: {MODEL}-D-{CAPACITY}kg   e.g., MMP-D-100K
-```
-
-### Pricing Formula
-
-```
-Base Price  = 5,000 + (capacity × 8) + size_addon + material_addon
-            + structure_addon + indicator_addon + load_cell_addon
-Per Unit    = Base Price + NABL addon (if selected)
-Subtotal    = Per Unit × Quantity
-GST         = Subtotal × 18%
-Total       = Subtotal + GST + Freight
-```
-
-> All prices in **INR (₹)**. Edit `calcPrice()` in the script block to customise.
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-| Layer | Technology |
-|-------|------------|
-| 🖥️ Frontend | HTML5 · CSS3 (Grid, Flexbox) · JavaScript ES6 |
-| ⚛️ Frameworks | React · Next.js |
-| 🔧 Backend | Node.js · Supabase |
-| 📄 PDF Engine | html2pdf.js v0.10.1 |
-| 🎨 UI | Font Awesome 6.4 · Google Fonts (Inter + Space Grotesk) |
-| 🚀 Deployment | Vercel · Hostinger |
-| 🤖 Automation | N8N · Browser Automation · Google APIs |
-| 🧠 AI Tooling | Claude · ChatGPT · DeepSeek · Cursor |
-| 📊 Data | Google Sheets · Supabase · Excel |
-
-</div>
-
----
-
-## 🗺️ Roadmap
-
-- [ ] **v1.1** — Sequential Quote IDs
-- [ ] **v1.2** — Multi-product quotation PDF
-- [ ] **v1.3** — Customer database
-- [ ] **v1.4** — Email PDF from browser
-- [ ] **v2.0** — React + TypeScript + Supabase backend
-- [ ] **v2.1** — Admin dashboard (quote history, analytics)
-- [ ] **v2.2** — WhatsApp Business API integration
-- [ ] **v3.0** — Full B2B trade intelligence platform
-
----
-
-## 🤝 Contributing
-
-```bash
-git checkout -b feature/your-feature
-git commit -m "feat: your improvement"
-git push origin feature/your-feature
-```
-
-- 🐛 [Report a Bug](https://github.com/SNTL84/sntl84-core-identity/issues/new?template=bug_report.md)
-- 💡 [Request a Feature](https://github.com/SNTL84/sntl84-core-identity/issues/new?template=feature_request.md)
-
----
-
-## ⭐ Support This Work
-
-[![Star](https://img.shields.io/github/stars/SNTL84/sntl84-core-identity?style=social)](https://github.com/SNTL84/sntl84-core-identity/stargazers)
-[![Fork](https://img.shields.io/github/forks/SNTL84/sntl84-core-identity?style=social)](https://github.com/SNTL84/sntl84-core-identity/fork)
-[![Watch](https://img.shields.io/github/watchers/SNTL84/sntl84-core-identity?style=social)](https://github.com/SNTL84/sntl84-core-identity/watchers)
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=f5a623,1a1a2e&height=130&section=footer&animation=fadeIn" width="100%"/>
+## 🎯 **I Automate What's Costing You Money**
+### *From Prompt to Production • Without 6 Weeks and a Project Manager*
 
-**Made with ⚡ in Sachin, Surat, India**
+**Specialized in:**  
+🇮🇳 Indian SMBs & Startups • 🏢 Housing Societies • 🛒 E-Commerce • 🤖 AI Workflows • 📊 Business Intelligence
 
-© 2026 [SNTL84](https://desidevloper.com) · [MetroMate Web Dev Services](https://desidevloper.com)  
-_Systems That Scale. Results That Last._
+</div>
 
+---
+
+<div align="center">
+
+### 📱 **Connect With Me**
+
+[![Website](https://img.shields.io/badge/🌐_Website-desidevloper.com-01696f?style=for-the-badge&logoColor=white&labelColor=0d1117)](https://desidevloper.com)
+[![WhatsApp](https://img.shields.io/badge/💬_WhatsApp-+91_9727413309-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117)](https://wa.me/919727413309?text=Hi%20SNTL84%2C%20I%20want%20to%20discuss%20a%20project)
+
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-@SNTL2784-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/sntl2784)
+[![Email](https://img.shields.io/badge/📧_Email-3goldenlotus%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:3goldenlotusroots@gmail.com)
+
+[![Instagram](https://img.shields.io/badge/📸_Instagram-@desibiztrade-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117)](https://www.instagram.com/desibiztrade)
+[![Arrattai](https://img.shields.io/badge/🤖_Arrattai-@desidevloper-4f98a3?style=for-the-badge&logoColor=white&labelColor=0d1117)](https://aratt.ai/user/@desidevloper)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ **Quick Action**
+
+**[🚀 Book Free 20-Min Strategy Call](https://wa.me/919727413309?text=Hi%20SNTL84%2C%20I%20want%20a%20free%20strategy%20call)** • **[📂 Explore All Projects](#featured-work)** • **[💼 View Full Services](#what-i-deliver)**
+
+</div>
+
+---
+
+## 👤 **Who I Help**
+
+> **Founders, agency owners, and SMB operators** in India and globally who are losing **hours every week to manual work** — hiring, lead generation, operations, reporting — and need someone who builds **production-ready systems fast**.
+
+### **If This Is You:**
+- ✅ Team copy-pasting data between tools
+- ✅ Screening resumes by hand (taking 4+ hours/day)
+- ✅ Managing housing society operations with paper forms
+- ✅ Running e-commerce manually across multiple platforms
+- ✅ Paying people to do repetitive tasks
+
+**→ You're in the right place.**
+
+---
+
+## 🎁 **What I Deliver**
+
+<table align="center">
+<tr>
+<th>🎯 What You Get</th>
+<th>📊 The Impact</th>
+<th>⏱️ Timeline</th>
+</tr>
+<tr>
+<td><strong>🤖 AI Hiring System</strong><br/>Auto-score resumes, generate shortlists</td>
+<td><strong>80% faster</strong> resume processing<br/>4 hrs → 45 min/day</td>
+<td>3–5 days</td>
+</tr>
+<tr>
+<td><strong>🚀 Lead Enrichment Agent</strong><br/>Auto-enrich B2B leads with founder data</td>
+<td><strong>93% faster</strong> research<br/>45 min → 3 min per lead</td>
+<td>2–4 days</td>
+</tr>
+<tr>
+<td><strong>🏢 Backoffice OS</strong><br/>Attendance, payroll, petty cash, field visits</td>
+<td><strong>6 hrs/week saved</strong><br/>3 spreadsheets → 1 dashboard</td>
+<td>5–7 days</td>
+</tr>
+<tr>
+<td><strong>🏙️ MetroMate Suite</strong><br/>Parking management, vehicle registration</td>
+<td><strong>100% paperless</strong> operations<br/>Trilingual • WhatsApp-native</td>
+<td>2–3 days</td>
+</tr>
+<tr>
+<td><strong>🛒 E-Commerce Automation</strong><br/>Multi-platform order & inventory sync</td>
+<td><strong>100% accuracy</strong> across channels<br/>Eliminate overselling</td>
+<td>3–7 days</td>
+</tr>
+<tr>
+<td><strong>⚙️ AI Workflow Automation</strong><br/>n8n • Zapier • Custom pipelines</td>
+<td><strong>Any repetitive task</strong> automated<br/>24/7 no-code operations</td>
+<td>3–7 days</td>
+</tr>
+</table>
+
+---
+
+## 💼 **Featured Work**
+
+### 🏆 **Flagship Projects** *(Live, Revenue-Generating)*
+
+<div align="center">
+
+#### 🏙️ **MetroMate — Residential Parking Management OS**
+[**→ Repository**](https://github.com/SNTL84/MetroMate) • [**→ Brand Development**](https://github.com/SNTL84/metromate-shiv-kathiawadi-thali-brand-development) • [**→ Live Demo**](https://github.com/SNTL84/sntl84-desidevloper-live-demo)
+
+**Automated parking management for housing societies. Zero paper. Three languages. WhatsApp-native.**
+
+| Challenge | MetroMate Solution |
+|-----------|-------------------|
+| 📄 Paper forms lost in letterboxes | ✅ Digital WhatsApp submission (instant) |
+| ❓ Unknown vehicle ownership | ✅ Master register with auto-verification |
+| 🌐 English-only forms → No participation | ✅ English + Gujarati + Hindi |
+| 🔢 Manual parking calculations | ✅ Live deficit/surplus auto-calculated |
+| ⚠️ No audit trail | ✅ Complete compliance dashboard |
+
+**Real Result:** 42 flats • 100% digital • Zero paper • Managing 200+ vehicles
+
+---
+
+#### 🤖 **AI Hiring Intelligence System**
+[**→ Main Project**](https://github.com/SNTL84/sntl84-ai-hiring-intel) • [**→ Agentic Recruiter**](https://github.com/SNTL84/sntl84-agentic-recruiter) • [**→ Smart Job Board**](https://github.com/SNTL84/sntl84-hiring-system)
+
+**AI-powered resume screening that catches the best candidates instantly.**
+
+| Old Way (Manual) | New Way (AI) |
+|------------------|------------|
+| Screen 100 CVs: **4 hours** | Screen 100 CVs: **2 minutes** |
+| Score 1 resume: **15 minutes** | Score 1 resume: **5 seconds** |
+| Miss 30% of good candidates | **Zero false negatives** |
+| Hiring cost: **₹500k/quarter** | Hiring cost: **₹200k/quarter** *(60% reduction)* |
+
+**Auto-scores | Generates shortlists | LinkedIn enrichment | Bulk operations**
+
+---
+
+#### 🏢 **Backoffice OS — HR & Operations Dashboard**
+[**→ Repository**](https://github.com/SNTL84/sntl84-backoffice-os)
+
+**Single dashboard for attendance, payroll, petty cash, field visits, and expense tracking.**
+
+**Real Result:** Replaced 3 spreadsheets → 1 unified system → **6+ hours/week saved** in admin overhead
+
+</div>
+
+---
+
+### 🚀 **AI & Automation Agents**
+
+<table align="center">
+<tr>
+<th width="35%">Agent</th>
+<th width="50%">What It Does</th>
+<th width="15%">Repo</th>
+</tr>
+<tr>
+<td><strong>🎯 Lead Enrichment Agent</strong></td>
+<td>Auto-enrich B2B leads with founder names, funding stage, LinkedIn profiles → Export as VCF</td>
+<td><a href="https://github.com/SNTL84/ai-lead-enrichment-agent">→ Go</a></td>
+</tr>
+<tr>
+<td><strong>🧠 FMCG Lead Intelligence</strong></td>
+<td>n8n + Claude AI pipeline: Scrape → Score → Draft WhatsApp/Email → Send automatically</td>
+<td><a href="https://github.com/SNTL84/sntl84-fmcg-lead-intel">→ Go</a></td>
+</tr>
+<tr>
+<td><strong>📊 Business Intelligence Push</strong></td>
+<td>264 services across 22 industries categorized & published in 2 hours (vs. weeks of manual work)</td>
+<td><a href="https://github.com/SNTL84/sntl84-business-intelligence-push">→ Go</a></td>
+</tr>
+</table>
+
+---
+
+### 🛒 **E-Commerce Automation Suite** *(7-Service Bundle)*
+
+<div align="center">
+
+**Complete workflow automation for Indian e-commerce sellers — Shopify, Flipkart, Amazon, Meesho**
+
+</div>
+
+| Service | What It Does | Platform | Repo |
+|---------|--------------|----------|------|
+| 📦 **Dropshipping Setup** | Supplier sourcing + store automation (₹0 inventory) | WooCommerce, Shopify | [→](https://github.com/SNTL84/sntl84-ecom-dropshipping-setup) |
+| 🏪 **Marketplace Listing** | Amazon, Flipkart, Meesho listing management + A+ content | Multi-channel | [→](https://github.com/SNTL84/sntl84-ecom-marketplace-listing) |
+| 🚚 **Order Fulfillment** | Shiprocket, Delhivery, BlueDart integration (end-to-end) | Logistics | [→](https://github.com/SNTL84/sntl84-ecom-order-fulfillment) |
+| 💳 **Payment Integration** | Razorpay, Paytm, Stripe, UPI, COD support | All Gateways | [→](https://github.com/SNTL84/sntl84-ecom-payment-integration) |
+| 🔄 **Inventory Sync** | Real-time stock sync across all channels (no overselling) | Multi-channel | [→](https://github.com/SNTL84/sntl84-ecom-inventory-sync) |
+| 📣 **Ad Campaigns** | Google Ads, Meta, Instagram campaign management | Performance Marketing | [→](https://github.com/SNTL84/sntl84-ecom-ad-campaigns) |
+| 🎧 **Customer Support** | WhatsApp bot, email, helpdesk + CRM integration | 24/7 Support | [→](https://github.com/SNTL84/sntl84-ecom-customer-support) |
+
+---
+
+### 🔧 **Automation Templates & Tools**
+
+<div align="center">
+
+| Tool | Purpose | Link |
+|------|---------|------|
+| 🤖 **n8n SMB Workflow Templates** | 50+ ready-to-import workflows (WhatsApp, GST, Razorpay, Shiprocket) | [⭐ Star It](https://github.com/SNTL84/n8n-india-smb-workflow-templates) |
+| 📞 **WhatsApp Outreach Tool** | Bulk WhatsApp messaging + VCF export + instant WA links | [Go](https://github.com/SNTL84/whatsapp-outreach-tool) |
+| ⚡ **DesiQuote** | Instant gig quote calculator (freelance pricing) | [Go](https://github.com/SNTL84/sntl84-desi-quote) |
+| 🏠 **CoHost Virtual Assistant** | Airbnb property management landing page | [Go](https://github.com/SNTL84/sntl84-cohost-virtual-assistant-v3) |
+
+</div>
+
+---
+
+### 💼 **Portfolio & Web Properties**
+
+| Property | Tech Stack | Features | Link |
+|----------|-----------|----------|------|
+| 🌐 **DesiDeveloper Portfolio (Next.js)** | Next.js 14 • TypeScript • TailwindCSS • Framer Motion | AI-powered portfolio • Dark mode • Animations | [Repo](https://github.com/SNTL84/desidevloper-portfolio-nextjs) |
+| 🔧 **DesiDeveloper (React)** | React • Vite • React Router • TailwindCSS | Full-stack portfolio • Trade directory | [Repo](https://github.com/SNTL84/desidevloper) |
+| 📱 **Services Live Demo** | HTML • CSS • JavaScript | Complete services showcase | [Repo](https://github.com/SNTL84/sntl84-desidevloper-live-demo) |
+| 📚 **Awesome AI Sales Agents** | Community Curated | 100+ AI SDR & sales automation tools | [⭐ Star It](https://github.com/SNTL84/awesome-ai-sales-agents) |
+
+---
+
+## 📊 **Real Results — Real Numbers**
+
+> *Built for founders, SMBs, and operators. Every number below is from a real, production project.*
+
+<div align="center">
+
+| What I Built | Client Context | Result | Impact |
+|--------------|-----------------|--------|--------|
+| **AI Hiring System** | B2B recruitment | 4 hrs → 45 min/day | **80% faster** ⚡ |
+| **Backoffice OS** | SMB operations | 3 spreadsheets → 1 dashboard | **6 hrs/week saved** 💰 |
+| **Lead Enrichment Agent** | Startup outreach | 45 min → 3 min per lead | **93% faster** 🚀 |
+| **MetroMate** | Housing society (42 flats) | Zero paper • 3 languages | **100% digital** 📲 |
+| **Statement Generator** | Multi-language export | 1,131 translations in 1 run | **Days of work** in minutes ⏱️ |
+| **Business Intelligence** | B2B trade directory | 264 services • 22 industries | **2 hours vs. weeks** 📈 |
+| **99-Page Generator** | Personal productivity | Full app from 3 prompts | **2 days → 15 minutes** 🎯 |
+
+</div>
+
+---
+
+## ⚡ **Why I'm Different**
+
+Most developers build what you ask. **I understand operations first.**
+
+Before writing code, I worked inside **BPO, FMCG, retail, and telecom**. That means I design systems that:
+
+- ✅ Solve **actual business problems** (not just technical exercises)
+- ✅ Work **with your existing tools** (Razorpay, Shiprocket, WhatsApp, n8n, Zapier)
+- ✅ Scale from **day 1 to 1000 users** without rewriting
+- ✅ Are **cheap to run** (focus on cost optimization)
+- ✅ **Don't need me forever** (you own everything, I document everything)
+
+---
+
+## 🛠️ **Tech Stack**
+
+<div align="center">
+
+### Languages & Frameworks
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+### Automation & Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
+
+### Frontend & Styling
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+
+### Indian Payment & Logistics
+![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logoColor=white)
+![Shiprocket](https://img.shields.io/badge/Shiprocket-00A0E9?style=for-the-badge&logoColor=white)
+![Delhivery](https://img.shields.io/badge/Delhivery-F7F7F7?style=for-the-badge&logo=delhivery&logoColor=black)
+
+### Deployment & Infrastructure
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+</div>
+
+---
+
+## 📂 **Project Directory** *(Browse by Category)*
+
+<details open>
+<summary><b>🏗️ Flagship Projects (Revenue-Generating)</b></summary>
+
+- 🏙️ [MetroMate](https://github.com/SNTL84/MetroMate) — Parking & vehicle management
+- 🤖 [AI Hiring Intel](https://github.com/SNTL84/sntl84-ai-hiring-intel) — Resume screening
+- 🏢 [Backoffice OS](https://github.com/SNTL84/sntl84-backoffice-os) — HR operations
+- 🤖 [Agentic Recruiter](https://github.com/SNTL84/sntl84-agentic-recruiter) — Recruitment automation
+
+</details>
+
+<details open>
+<summary><b>🛒 E-Commerce (7-Service Bundle)</b></summary>
+
+- 📦 [Dropshipping Setup](https://github.com/SNTL84/sntl84-ecom-dropshipping-setup)
+- 🏪 [Marketplace Listing](https://github.com/SNTL84/sntl84-ecom-marketplace-listing)
+- 🚚 [Order Fulfillment](https://github.com/SNTL84/sntl84-ecom-order-fulfillment)
+- 💳 [Payment Integration](https://github.com/SNTL84/sntl84-ecom-payment-integration)
+- 🔄 [Inventory Sync](https://github.com/SNTL84/sntl84-ecom-inventory-sync)
+- 📣 [Ad Campaigns](https://github.com/SNTL84/sntl84-ecom-ad-campaigns)
+- 🎧 [Customer Support](https://github.com/SNTL84/sntl84-ecom-customer-support)
+
+</details>
+
+<details open>
+<summary><b>🤖 AI & Automation Agents</b></summary>
+
+- 🚀 [Lead Enrichment Agent](https://github.com/SNTL84/ai-lead-enrichment-agent)
+- 🧠 [FMCG Lead Intelligence](https://github.com/SNTL84/sntl84-fmcg-lead-intel)
+- 📊 [Business Intelligence Push](https://github.com/SNTL84/sntl84-business-intelligence-push)
+
+</details>
+
+<details open>
+<summary><b>🔧 Automation & Templates</b></summary>
+
+- 🤖 [n8n SMB Workflow Templates](https://github.com/SNTL84/n8n-india-smb-workflow-templates) ⭐
+- 📞 [WhatsApp Outreach Tool](https://github.com/SNTL84/whatsapp-outreach-tool)
+- ⚡ [DesiQuote](https://github.com/SNTL84/sntl84-desi-quote)
+
+</details>
+
+<details open>
+<summary><b>💼 Portfolio & Services</b></summary>
+
+- 🌐 [DesiDeveloper Portfolio (Next.js)](https://github.com/SNTL84/desidevloper-portfolio-nextjs)
+- 🔧 [DesiDeveloper (React)](https://github.com/SNTL84/desidevloper)
+- 📱 [Services Live Demo](https://github.com/SNTL84/sntl84-desidevloper-live-demo)
+- 🏠 [CoHost Virtual Assistant](https://github.com/SNTL84/sntl84-cohost-virtual-assistant-v3)
+
+</details>
+
+<details open>
+<summary><b>📚 Open-Source & Community</b></summary>
+
+- 📌 [Awesome AI Sales Agents](https://github.com/SNTL84/awesome-ai-sales-agents) — Curated list of 100+ tools
+- 🎨 [AI Frontend Projects](https://github.com/SNTL84/ai-frontend-projects) — 45 battle-tested builds
+
+</details>
+
+---
+
+## 🤝 **Work With Me**
+
+### **Choose What Fits:**
+
+<div align="center">
+
+| Option | Response Time | Best For | Action |
+|--------|---------------|----------|--------|
+| **💬 WhatsApp** | **< 2 hours** | Quick brief • Urgent | [**Chat Now →**](https://wa.me/919727413309?text=Hi%20SNTL84%2C%20I%20have%20a%20project%20in%20mind) |
+| **🌐 Website** | **24 hours** | Full services • Portfolio | [**Visit →**](https://desidevloper.com) |
+| **📧 Email** | **24 hours** | Formal proposal • Details | [**Send Email →**](mailto:3goldenlotusroots@gmail.com) |
+
+</div>
+
+### **Or Explore More:**
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/sntl2784) — Professional updates
+- 📸 [Instagram](https://www.instagram.com/desibiztrade) — Behind-the-scenes
+- 🤖 [Arrattai Profile](https://aratt.ai/user/@desidevloper) — AI community
+
+---
+
+## 🚀 **Quick Start by Use Case**
+
+### **👷 I manage a housing society**
+→ Struggling with parking, vehicle registration, tenant management?  
+[**→ Explore MetroMate**](https://github.com/SNTL84/MetroMate)
+
+### **🛒 I run an e-commerce store**
+→ Manual orders across Amazon, Flipkart, Meesho?  
+[**→ Explore E-Commerce Suite**](https://github.com/SNTL84/sntl84-ecom-marketplace-listing)
+
+### **🎯 I'm hiring and need to screen resumes**
+→ Spending 4+ hours/day screening CVs?  
+[**→ Explore AI Hiring Intel**](https://github.com/SNTL84/sntl84-ai-hiring-intel)
+
+### **📞 I do B2B outreach and sales**
+→ Manual lead research taking 45 min per lead?  
+[**→ Explore Lead Enrichment Agent**](https://github.com/SNTL84/ai-lead-enrichment-agent)
+
+### **⚙️ I want to automate workflows**
+→ Copy-pasting between tools and chasing approvals?  
+[**→ Explore n8n Templates**](https://github.com/SNTL84/n8n-india-smb-workflow-templates)
+
+### **👀 I just want to see latest work**
+→ Curious about what's possible?  
+[**→ Explore Latest Portfolio**](https://github.com/SNTL84/desidevloper-portfolio-nextjs)
+
+---
+
+## 📈 **By The Numbers**
+
+<div align="center">
+
+| Metric | Value |
+|--------|-------|
+| 🔨 **Projects Built** | 30+ production systems |
+| ⏱️ **Average Project Timeline** | 3–7 days from brief to live |
+| 💰 **Client Cost Savings** | ₹50,00,000+ per year (combined) |
+| 🎯 **Success Rate** | 100% of systems live & generating revenue |
+| 🌍 **Clients Across** | 15+ countries & 8+ industries |
+| 📱 **Tech Combinations Used** | 50+ unique tech stacks |
+
+</div>
+
+---
+
+## 💬 **One Last Thing**
+
+> *"I don't just build code. I build systems that founders can rely on — that solve real problems, that scale, that don't need me every day."*
+
+**Your business shouldn't require constant developer maintenance. It should work like a machine.**
+
+---
+
+<div align="center">
+
+### 👉 **Ready to automate and scale?**
+
+#### **[🚀 Start Your Free Strategy Call Now](https://wa.me/919727413309?text=Hi%20SNTL84%2C%20I%20want%20a%20free%20strategy%20call%20to%20understand%20how%20I%20can%20automate%20my%20business)**
+
+---
+
+*Last updated: June 2026 • [View on GitHub](https://github.com/SNTL84) • [Follow on LinkedIn](https://www.linkedin.com/in/sntl2784)*
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001f3f,25:005a96,50:01696f,75:01a89f,100:0d1117&height=120&section=footer&text=Built%20by%20Milan%20%E2%80%A2%20SNTL84&fontSize=20&fontColor=ffffff&animation=fadeIn" />
 </div>
