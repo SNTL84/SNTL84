@@ -49,6 +49,59 @@
 
 ---
 
+## 🏅 **OSS Contributor & Maintainer Achievements**
+
+> *Merged PRs, bug fixes, and triage contributions to production open-source projects.*
+
+<div align="center">
+
+| Achievement | Level | Details |
+|-------------|-------|---------|
+| 🟢 **OSS Contributor** | ✅ Active | Merged PR into [ishandutta2007/Velocity](https://github.com/ishandutta2007/Velocity) |
+| 🛠️ **Bug Fix Contributor** | ✅ Shipped | Fixed critical `ERR_MODULE_NOT_FOUND` build crash (PR [#25](https://github.com/ishandutta2007/Velocity/pull/25)) |
+| 🧪 **Test Suite Author** | ✅ Shipped | Authored `ArtifactStore` regression test suite (167 additions) |
+| 🔍 **Triage Contributor** | ✅ Active | Diagnosed root cause of Issue [#17](https://github.com/ishandutta2007/Velocity/issues/17) — empty `src/artifacts/` directory |
+| 🧩 **Maintainer-Level Review** | 🟡 Rising | Structured PR body with root cause analysis, test matrix, CI safety notes |
+| 🌍 **Cross-Repo Contributor** | ✅ Unlocked | Contributed to upstream repo outside personal GitHub org |
+
+</div>
+
+### 🏆 **GitHub Badges Earnable (Simultaneously)**
+
+<div align="center">
+
+| Badge | How to Earn | Status |
+|-------|------------|--------|
+| 🦈 **Pull Shark** | Get 2+ PRs merged in public repos | 🟡 1 merged — get 1 more to unlock! |
+| ⚡ **Quickdraw** | Close issue or PR within 5 min of opening | ✅ Eligible — act fast on next one |
+| 🌟 **Starstruck** | Repo receives 16+ stars | 🟡 Star [Velocity](https://github.com/ishandutta2007/Velocity) & share |
+| 🧠 **Galaxy Brain** | Answer accepted as solution in Discussions | 🟡 Join Velocity Discussions |
+| 🏅 **YOLO** | Merge your own PR without review | ✅ Eligible on your personal repos |
+| ❤️ **Pair Extraordinaire** | Co-author a merged commit | 🟡 Add co-author on next PR |
+
+</div>
+
+> 💡 **Next milestone:** Merge **1 more PR** in any public repo → unlocks **Pull Shark** badge on your profile automatically.
+
+---
+
+## 🚀 **Leveled-Up Skills — June 2026**
+
+<div align="center">
+
+| Skill | Previous Level | Upgraded To | Evidence |
+|-------|---------------|-------------|----------|
+| 🧪 **Unit Testing (Node.js/ESM)** | Intermediate | **Advanced** | ArtifactStore test suite — mocked DB + FS, in-memory CI |
+| 🔍 **Root Cause Analysis** | Intermediate | **Advanced** | Diagnosed ESM module resolution failure in TypeScript monorepo |
+| 🛠️ **Open Source Contribution** | Beginner | **Contributor** | Merged PR into production OSS AI agent framework |
+| 🤖 **AI Agent Architecture** | Familiar | **Hands-On** | Worked inside Velocity — OSS equivalent of Cursor/Claude Code |
+| 📋 **Triage & Issue Analysis** | Basic | **Maintainer-Level** | Structured root cause + fix matrix in PR description |
+| 🏗️ **TypeScript Monorepo** | Familiar | **Contributor** | Navigated `newcore/` ESM module graph in real project |
+
+</div>
+
+---
+
 ## 👤 **Who I Help**
 
 > **Founders, agency owners, and SMB operators** in India and globally who are losing **hours every week to manual work** — hiring, lead generation, operations, reporting — and need someone who builds **production-ready systems fast**.
@@ -152,6 +205,18 @@
 
 **Real Result:** Replaced 3 spreadsheets → 1 unified system → **6+ hours/week saved** in admin overhead
 
+#### 🌐 **Velocity — AI Agent Framework (OSS Contributor)**
+[**→ Upstream Repo**](https://github.com/ishandutta2007/Velocity) • [**→ My Merged PR #25**](https://github.com/ishandutta2007/Velocity/pull/25)
+
+**Contributed to Velocity — the open-source equivalent of Google Antigravity / Cursor / Claude Code.**
+
+| My Contribution | Details |
+|-----------------|---------|
+| 🐛 **Bug Fixed** | `ERR_MODULE_NOT_FOUND` crash on `src/artifacts/index.js` |
+| 🧪 **Tests Added** | 6-case `ArtifactStore` regression suite — fully mocked, CI-safe |
+| 🔍 **Root Cause** | Empty `src/artifacts/` directory broke Node ESM resolution at startup |
+| 📋 **PR** | [#25](https://github.com/ishandutta2007/Velocity/pull/25) — 167 additions, 1 file, merged ✅ |
+
 </div>
 
 ---
@@ -244,6 +309,7 @@
 | **Statement Generator** | Multi-language export | 1,131 translations in 1 run | **Days of work** in minutes ⏱️ |
 | **Business Intelligence** | B2B trade directory | 264 services • 22 industries | **2 hours vs. weeks** 📈 |
 | **99-Page Generator** | Personal productivity | Full app from 3 prompts | **2 days → 15 minutes** 🎯 |
+| **Velocity OSS Fix** | AI Agent Framework | Eliminated startup crash | **ERR_MODULE_NOT_FOUND → Resolved** 🔧 |
 
 </div>
 
@@ -279,6 +345,11 @@ Before writing code, I worked inside **BPO, FMCG, retail, and telecom**. That me
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
 
+### AI Agent Frameworks *(Contributor)*
+![Velocity](https://img.shields.io/badge/Velocity_OSS-Contributor-01696f?style=for-the-badge&logo=github&logoColor=white)
+![Unit Testing](https://img.shields.io/badge/Unit_Testing-Node_ESM-339933?style=for-the-badge&logo=jest&logoColor=white)
+![ESM Modules](https://img.shields.io/badge/ESM_Modules-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
 ### Frontend & Styling
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -309,6 +380,13 @@ Before writing code, I worked inside **BPO, FMCG, retail, and telecom**. That me
 - 🤖 [AI Hiring Intel](https://github.com/SNTL84/sntl84-ai-hiring-intel) — Resume screening
 - 🏢 [Backoffice OS](https://github.com/SNTL84/sntl84-backoffice-os) — HR operations
 - 🤖 [Agentic Recruiter](https://github.com/SNTL84/sntl84-agentic-recruiter) — Recruitment automation
+
+</details>
+
+<details open>
+<summary><b>🌐 Open Source Contributions</b></summary>
+
+- 🚀 [Velocity](https://github.com/ishandutta2007/Velocity) — AI agent framework (Google Antigravity/Cursor/Claude Code OSS equiv.) — **[Merged PR #25](https://github.com/ishandutta2007/Velocity/pull/25)** ✅
 
 </details>
 
@@ -425,6 +503,7 @@ Before writing code, I worked inside **BPO, FMCG, retail, and telecom**. That me
 | 🎯 **Success Rate** | 100% of systems live & generating revenue |
 | 🌍 **Clients Across** | 15+ countries & 8+ industries |
 | 📱 **Tech Combinations Used** | 50+ unique tech stacks |
+| 🌐 **OSS Contributions** | 1 merged PR in production AI agent framework |
 
 </div>
 
