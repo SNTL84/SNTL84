@@ -51,7 +51,7 @@
 
 ## 🏅 **OSS Contributor & Maintainer Achievements**
 
-> *Merged PRs, bug fixes, and triage contributions to production open-source projects.*
+> *Merged PRs, bug fixes, triage contributions, and embed-react specialist work in production open-source projects.*
 
 <div align="center">
 
@@ -63,8 +63,46 @@
 | 🔍 **Triage Contributor** | ✅ Active | Diagnosed root cause of Issue [#17](https://github.com/ishandutta2007/Velocity/issues/17) — empty `src/artifacts/` directory |
 | 🧩 **Maintainer-Level Review** | 🟡 Rising | Structured PR body with root cause analysis, test matrix, CI safety notes |
 | 🌍 **Cross-Repo Contributor** | ✅ Unlocked | Contributed to upstream repo outside personal GitHub org |
+| ⚛️ **@calcom/embed-react Specialist** | 🔥 Active | Root cause analysis + 3-tier fix for [cal.com #28979](https://github.com/calcom/cal.com/issues/28979) — `useRef` guard short-circuit bug affecting all React embed users |
 
 </div>
+
+---
+
+## ⚛️ **@calcom/embed-react — Active Contribution**
+
+> *Actively triaging and fixing issues in [`@calcom/embed-react`](https://github.com/calcom/cal.com/tree/main/packages/embed-react) — the React embed package used by thousands of cal.com users.*
+
+<div align="center">
+
+| Issue | Root Cause | My Fix | Status |
+|-------|-----------|--------|--------|
+| [#28979](https://github.com/calcom/cal.com/issues/28979) — `config` prop ignored after mount | `useRef` guard `c.current` short-circuits effect re-runs despite `config` being in dep array | Split init/update into 2 effects; reactive config update via embed UI API | 🔥 PR in progress |
+
+**Specialty:** React hooks lifecycle • embed package architecture • `useRef` footguns • effect dependency optimization
+
+</div>
+
+### 🔧 The Fix (Option 1 — Recommended)
+
+```tsx
+// Effect 1: One-time initialization — guard is correct here
+useEffect(() => {
+  if (!a || c.current || !f.current) return;
+  c.current = true;
+  a.ns[t]("inline", { config: o });
+}, [a, e, t, l, n]); // config intentionally excluded — init-only
+
+// Effect 2: Reactive config updates — no guard, runs on every config change
+useEffect(() => {
+  if (!c.current || !a) return; // only after init
+  a.ns[t]("ui", o); // update embed theme/config without remount
+}, [o]); // only config triggers this
+```
+
+> 💡 **Impact:** Fixes silent theme/config update failures for all `<Cal />` inline embed users on React 18+. No iframe remount. No UX flash.
+
+---
 
 ### 🏆 **GitHub Badges Earnable (Simultaneously)**
 
@@ -72,7 +110,7 @@
 
 | Badge | How to Earn | Status |
 |-------|------------|--------|
-| 🦈 **Pull Shark** | Get 2+ PRs merged in public repos | 🟡 1 merged — get 1 more to unlock! |
+| 🦈 **Pull Shark** | Get 2+ PRs merged in public repos | 🟡 1 merged — cal.com PR = unlock! |
 | ⚡ **Quickdraw** | Close issue or PR within 5 min of opening | ✅ Eligible — act fast on next one |
 | 🌟 **Starstruck** | Repo receives 16+ stars | 🟡 Star [Velocity](https://github.com/ishandutta2007/Velocity) & share |
 | 🧠 **Galaxy Brain** | Answer accepted as solution in Discussions | 🟡 Join Velocity Discussions |
@@ -81,7 +119,7 @@
 
 </div>
 
-> 💡 **Next milestone:** Merge **1 more PR** in any public repo → unlocks **Pull Shark** badge on your profile automatically.
+> 💡 **Next milestone:** Merge **cal.com embed-react PR** → unlocks **Pull Shark** badge + establishes embed-react specialty on profile.
 
 ---
 
@@ -97,6 +135,7 @@
 | 🤖 **AI Agent Architecture** | Familiar | **Hands-On** | Worked inside Velocity — OSS equivalent of Cursor/Claude Code |
 | 📋 **Triage & Issue Analysis** | Basic | **Maintainer-Level** | Structured root cause + fix matrix in PR description |
 | 🏗️ **TypeScript Monorepo** | Familiar | **Contributor** | Navigated `newcore/` ESM module graph in real project |
+| ⚛️ **React Hooks / Embed Architecture** | Advanced | **Specialist** | `useRef` guard footgun analysis in cal.com embed-react package |
 
 </div>
 
@@ -217,6 +256,19 @@
 | 🔍 **Root Cause** | Empty `src/artifacts/` directory broke Node ESM resolution at startup |
 | 📋 **PR** | [#25](https://github.com/ishandutta2007/Velocity/pull/25) — 167 additions, 1 file, merged ✅ |
 
+#### ⚛️ **cal.com — embed-react Bug Fix (OSS — PR In Progress)**
+[**→ Issue #28979**](https://github.com/calcom/cal.com/issues/28979) • [**→ Fork**](https://github.com/SNTL84/cal.com)
+
+**Fixing a high-impact silent failure in `@calcom/embed-react` v1.5.3 affecting all React inline embed users.**
+
+| My Contribution | Details |
+|-----------------|---------|
+| 🔍 **Root Cause** | `useRef` guard `c.current` short-circuits effect re-runs despite `config` in dep array |
+| 🛠️ **Fix Strategy** | Split initialization + reactive config update into 2 separate `useEffect` hooks |
+| 🧪 **Tests** | Double-init prevention test + reactive theme update test |
+| 📋 **Impact** | Affects all `<Cal />` inline embed users switching themes/config dynamically |
+| 🌍 **Scope** | `packages/embed-react/src/Cal.tsx` + dist rebuild |
+
 </div>
 
 ---
@@ -310,6 +362,7 @@
 | **Business Intelligence** | B2B trade directory | 264 services • 22 industries | **2 hours vs. weeks** 📈 |
 | **99-Page Generator** | Personal productivity | Full app from 3 prompts | **2 days → 15 minutes** 🎯 |
 | **Velocity OSS Fix** | AI Agent Framework | Eliminated startup crash | **ERR_MODULE_NOT_FOUND → Resolved** 🔧 |
+| **cal.com embed-react Fix** | React embed users globally | Silent config/theme update failure | **useRef guard → Reactive effects** ⚛️ |
 
 </div>
 
@@ -345,8 +398,9 @@ Before writing code, I worked inside **BPO, FMCG, retail, and telecom**. That me
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
 
-### AI Agent Frameworks *(Contributor)*
-![Velocity](https://img.shields.io/badge/Velocity_OSS-Contributor-01696f?style=for-the-badge&logo=github&logoColor=white)
+### OSS Contributions & Specialties
+![cal.com embed-react](https://img.shields.io/badge/@calcom%2Fembed--react-Specialist-0055FF?style=for-the-badge&logo=react&logoColor=white)
+![Velocity OSS](https://img.shields.io/badge/Velocity_OSS-Contributor-01696f?style=for-the-badge&logo=github&logoColor=white)
 ![Unit Testing](https://img.shields.io/badge/Unit_Testing-Node_ESM-339933?style=for-the-badge&logo=jest&logoColor=white)
 ![ESM Modules](https://img.shields.io/badge/ESM_Modules-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
@@ -386,6 +440,7 @@ Before writing code, I worked inside **BPO, FMCG, retail, and telecom**. That me
 <details open>
 <summary><b>🌐 Open Source Contributions</b></summary>
 
+- ⚛️ [cal.com](https://github.com/calcom/cal.com) — `@calcom/embed-react` specialist — **[Issue #28979 Analysis](https://github.com/calcom/cal.com/issues/28979)** • **[Fork](https://github.com/SNTL84/cal.com)** 🔥 PR in progress
 - 🚀 [Velocity](https://github.com/ishandutta2007/Velocity) — AI agent framework (Google Antigravity/Cursor/Claude Code OSS equiv.) — **[Merged PR #25](https://github.com/ishandutta2007/Velocity/pull/25)** ✅
 
 </details>
@@ -503,7 +558,8 @@ Before writing code, I worked inside **BPO, FMCG, retail, and telecom**. That me
 | 🎯 **Success Rate** | 100% of systems live & generating revenue |
 | 🌍 **Clients Across** | 15+ countries & 8+ industries |
 | 📱 **Tech Combinations Used** | 50+ unique tech stacks |
-| 🌐 **OSS Contributions** | 1 merged PR in production AI agent framework |
+| 🌐 **OSS Contributions** | 2 active OSS projects (Velocity ✅ + cal.com 🔥) |
+| ⚛️ **embed-react Specialty** | @calcom/embed-react bug triage & fix specialist |
 
 </div>
 
@@ -525,7 +581,7 @@ Before writing code, I worked inside **BPO, FMCG, retail, and telecom**. That me
 
 ---
 
-*Last updated: June 2026 • [View on GitHub](https://github.com/SNTL84) • [Follow on LinkedIn](https://www.linkedin.com/in/sntl2784)*
+*Last updated: June 2026 • [View on GitHub](https://github.com/SNTL84) • [Follow on LinkedIn](https://www.linkedin.com/in/sntl2784) • [Instagram](https://www.instagram.com/desibiztrade) • [YouTube @SNTL84](https://youtube.com/@SNTL84)*
 
 </div>
 
