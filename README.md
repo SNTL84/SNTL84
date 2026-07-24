@@ -590,3 +590,17 @@ Before writing code, I worked inside **BPO, FMCG, retail, and telecom**. That me
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001f3f,25:005a96,50:01696f,75:01a89f,100:0d1117&height=120&section=footer&text=Built%20by%20Milan%20%E2%80%A2%20SNTL84&fontSize=20&fontColor=ffffff&animation=fadeIn" />
 </div>
+
+
+---
+
+<div align="center">
+
+### 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=SNTL84&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SNTL84&theme=tokyonight&hide_border=true" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SNTL84&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+
+</div>
