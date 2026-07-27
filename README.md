@@ -16,7 +16,7 @@
 ### *From Prompt to Production • Without 6 Weeks and a Project Manager*
 
 **Specialized in:**  
-🇮🇳 Indian SMBs & Startups • 🏢 Housing Societies • 🛒 E-Commerce • 🤖 AI Workflows • 📊 Business Intelligence
+🇮🇳 Indian SMBs & Startups • Uplifting Sick Units to Profitable stage  • 🏢 Housing Societies • 🛒 E-Commerce • 🤖 AI Workflows • 📊 Business Intelligence
 
 </div>
 
