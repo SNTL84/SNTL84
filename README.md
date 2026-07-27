@@ -12,7 +12,7 @@
 
 <div align="center">
 
-## 🎯 **I Automate What's Costing You Money**
+## 🎯 **I Collab What's Costing You Time **
 ### *From Prompt to Production • Without 6 Weeks and a Project Manager*
 
 **Specialized in:**  
@@ -191,7 +191,7 @@ useEffect(() => {
 </tr>
 <tr>
 <td><strong>⚙️ AI Workflow Automation</strong><br/>n8n • Zapier • Custom pipelines</td>
-<td><strong>Any repetitive task</strong> automated<br/>24/7 no-code operations</td>
+<td><strong>Any repetitive task</strong> Collabd<br/>24/7 no-code operations</td>
 <td>3–7 days</td>
 </tr>
 </table>
@@ -207,7 +207,7 @@ useEffect(() => {
 #### 🏙️ **MetroMate — Residential Parking Management OS**
 [**→ Repository**](https://github.com/SNTL84/MetroMate) • [**→ Brand Development**](https://github.com/SNTL84/metromate-shiv-kathiawadi-thali-brand-development) • [**→ Live Demo**](https://github.com/SNTL84/sntl84-desidevloper-live-demo)
 
-**Automated parking management for housing societies. Zero paper. Three languages. WhatsApp-native.**
+**Collabd parking management for housing societies. Zero paper. Three languages. WhatsApp-native.**
 
 | Challenge | MetroMate Solution |
 |-----------|-------------------|
@@ -536,7 +536,7 @@ Before writing code, I worked inside **BPO, FMCG, retail, and telecom**. That me
 → Manual lead research taking 45 min per lead?  
 [**→ Explore Lead Enrichment Agent**](https://github.com/SNTL84/ai-lead-enrichment-agent)
 
-### **⚙️ I want to automate workflows**
+### **⚙️ I want to Collab workflows**
 → Copy-pasting between tools and chasing approvals?  
 [**→ Explore n8n Templates**](https://github.com/SNTL84/n8n-india-smb-workflow-templates)
 
@@ -575,9 +575,9 @@ Before writing code, I worked inside **BPO, FMCG, retail, and telecom**. That me
 
 <div align="center">
 
-### 👉 **Ready to automate and scale?**
+### 👉 **Ready to Collab and scale?**
 
-#### **[🚀 Start Your Free Strategy Call Now](https://wa.me/919727413309?text=Hi%20SNTL84%2C%20I%20want%20a%20free%20strategy%20call%20to%20understand%20how%20I%20can%20automate%20my%20business)**
+#### **[🚀 Start Your Free Strategy Call Now](https://wa.me/919727413309?text=Hi%20SNTL84%2C%20I%20want%20a%20free%20strategy%20call%20to%20understand%20how%20I%20can%20Collab%20my%20business)**
 
 ---
 
