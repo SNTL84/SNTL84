@@ -448,3 +448,450 @@ useEffect(() => {
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SNTL84&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 
 </div>
+
+---
+
+# ❓ **SNTL84 Profile FAQ**
+
+> **Have a business problem, technology requirement, automation idea, or software project? Start here.**
+
+<details>
+<summary><strong>01. Who is SNTL84?</strong></summary>
+
+**SNTL84 is Milan** — an AI Workflow Developer, **Vibe Coder**, business-tech problem solver, and strategic project tester focused on turning business problems into practical digital solutions.
+
+I work across **AI workflows, business automation, full-stack development, business intelligence, SME activation, restaurant technology, e-commerce enablement, technical configuration, technology sourcing, advertising technology, and real-world project validation**.
+
+</details>
+
+<details>
+<summary><strong>02. What does SNTL84 actually do?</strong></summary>
+
+I help businesses move from **problem → practical solution → working setup**.
+
+Typical work includes:
+
+- 🤖 AI & agentic workflows
+- ⚙️ Business process automation
+- 💻 Full-stack web development
+- 🧑‍💻 Vibe coding and rapid prototyping
+- 📊 Business intelligence and dashboards
+- 🏢 SME digital activation
+- 🍽️ Restaurant technology setup
+- 🛒 E-commerce business setup
+- 📣 Meta Ads Manager configuration
+- 🔧 Business technology configuration
+- 🧪 Strategic testing and external validation
+- 🔌 API, portal, SaaS and tool integrations
+- 💰 Cost-effective technology sourcing
+
+</details>
+
+<details>
+<summary><strong>03. What business problems can I bring to SNTL84?</strong></summary>
+
+You can approach me when your business needs **activation, setup, configuration, automation, technology sourcing, digital marketing infrastructure, or custom software**.
+
+### 🏢 SME Activation & Digital Business Setup
+
+- SME digital activation and technology setup
+- Website / landing-page setup
+- Google Business Profile configuration
+- WhatsApp Business setup
+- Business listings and lead capture
+- CRM setup and configuration
+- Basic analytics and reporting
+- Workflow mapping and business process automation
+
+**Goal:** get the business digitally operational quickly without unnecessary technology spending.
+
+### 🍽️ Restaurant & Food Business Setup
+
+For restaurants, cafés, cloud kitchens, caterers and food businesses:
+
+- Restaurant website / landing page
+- Menu digitization
+- Google Business Profile
+- WhatsApp Business
+- **Zomato configuration**
+- **Swiggy configuration**
+- Food-delivery portal configuration
+- Online-ordering workflows
+- Customer enquiry / booking flows
+- Instagram & Facebook business setup
+- Restaurant promotion setup
+- Meta Ads configuration
+- Campaign tracking and analytics
+
+**Goal:** make the restaurant **discoverable, order-ready, promotion-ready and digitally manageable**.
+
+### 🛒 E-Commerce Business Setup
+
+- Shopify / WooCommerce setup
+- Product catalogue configuration
+- Marketplace setup and workflow support
+- Amazon / Flipkart / Meesho support
+- Payment gateway configuration
+- UPI / COD setup
+- Inventory configuration
+- Order-management workflows
+- Shipping / fulfillment integrations
+- WhatsApp customer communication
+- Analytics and reporting
+- Meta Ads setup
+- Product-promotion workflows
+- Cross-platform automation
+
+**Business flow:** Product → Store → Payment → Order → Fulfillment → Customer → Analytics.
+
+### 💻 Technology Configuration for Your Business
+
+Sometimes you don't need new software. You need your existing technology **configured properly**.
+
+I can help review and configure:
+
+- Domains & hosting
+- Business email
+- Google Workspace
+- Google Business Profile
+- WhatsApp Business
+- Websites
+- CRM systems
+- Payment gateways
+- Analytics
+- Meta Business Suite
+- Meta Ads Manager
+- Facebook Pages
+- Instagram Business
+- E-commerce platforms
+- Delivery portals
+- APIs and integrations
+- Automation platforms
+- Dashboards and reporting
+
+### 💰 Tech Sourcing for Quick, Cost-Effective Setup
+
+I can help identify technology that is **practical, affordable and fast to deploy**:
+
+- SaaS / tool comparison
+- Hosting and domain selection
+- Business software selection
+- Hardware / technology requirement planning
+- Website technology selection
+- Automation-tool selection
+- API / integration options
+- Low-cost MVP architecture
+- Free / low-cost alternatives where appropriate
+- Upgrade paths for future scaling
+
+**Principle:** don't buy enterprise technology for an SME problem.
+
+### 📣 Meta Ads Manager & Advertising Configuration
+
+I can help configure:
+
+- Meta Business Portfolio / Business Manager
+- Facebook Page connection
+- Instagram account connection
+- Ad account setup
+- **Meta Ads Manager configuration**
+- Meta Pixel planning/configuration
+- Conversions API planning/configuration
+- Domain verification
+- Events configuration
+- Conversion tracking
+- Lead campaigns
+- WhatsApp campaigns
+- Traffic campaigns
+- Engagement campaigns
+- Retargeting setup
+- Audience configuration
+- Campaign structure
+- Performance tracking
+
+**Business flow:** Business → Page → Instagram → Ad Account → Tracking → Audience → Campaign → Lead / Conversion → Measurement.
+
+### 👨‍💻 Vibe Coding + Full-Stack Development Team
+
+I work as a **Vibe Coder** for rapid discovery, prototyping and iteration, supported by a **team of full-stack developers** for larger or production-oriented requirements.
+
+Depending on the requirement, we can build:
+
+- Websites
+- Web applications
+- Dashboards
+- Business portals
+- SaaS MVPs
+- AI-powered applications
+- Internal business systems
+- APIs
+- Database-backed applications
+- Automation systems
+- E-commerce platforms
+- Custom integrations
+
+**Vibe coding provides speed. Engineering discipline is applied where reliability, security, scalability and maintainability matter.**
+
+### 🤖 AI & Automation
+
+I can identify repetitive work that may be automated through **AI workflows, AI agents, n8n, APIs, WhatsApp workflows, lead enrichment, data processing, automated reporting, customer-support workflows, sales follow-ups, business intelligence and internal dashboards**.
+
+### 🔧 The Bigger Question
+
+You don't need to know whether you need a **Website • App • AI • Automation • Meta Ads • Zomato • Swiggy • E-commerce • CRM • Dashboard • API • Software • or simply better configuration**.
+
+Bring the **business problem**.
+
+**Cost → Speed → Business Value → Scalability → Ease of Use**
+
+</details>
+
+<details>
+<summary><strong>04. What does “I Collab What's Costing You Time” mean?</strong></summary>
+
+I start with the **business problem**, not the technology.
+
+> **What is currently costing you the most time, money or operational effort?**
+
+Then I look for the smallest practical solution that removes the bottleneck.
+
+</details>
+
+<details>
+<summary><strong>05. Who should approach SNTL84?</strong></summary>
+
+Founders, startups, **SMEs, restaurant owners, e-commerce sellers, agencies, sales leaders, operations teams, product builders, SaaS founders, developers and open-source maintainers** can approach me.
+
+You do not need a technical background.
+
+**If you can explain the problem, we can explore the solution.**
+
+</details>
+
+<details>
+<summary><strong>06. Does SNTL84 only build websites?</strong></summary>
+
+**No.** Web development is one part of the work. The broader focus is:
+
+**Problem → Workflow → Technology → Automation → Interface → Validation → Deployment**
+
+Sometimes the answer is a website. Sometimes it is a dashboard, AI agent, automation, portal configuration, advertising setup, or better use of tools the business already owns.
+
+</details>
+
+<details>
+<summary><strong>07. What makes SNTL84 different from a conventional developer?</strong></summary>
+
+I combine **business-side operational thinking with technical implementation**.
+
+I look at users, operations, cost, adoption, repetitive work, failure points, workflow dependencies and business practicality — not only code and frameworks.
+
+**The objective is to make the business work better, not simply to build more software.**
+
+</details>
+
+<details>
+<summary><strong>08. Can SNTL84 work with an existing project?</strong></summary>
+
+**Yes.** Existing GitHub repositories, React / Next.js projects, TypeScript projects, n8n workflows, AI workflows, SaaS prototypes, open-source projects, business dashboards, e-commerce systems and existing portals can all be reviewed, configured, improved or extended.
+
+</details>
+
+<details>
+<summary><strong>09. Does SNTL84 provide independent technical feedback?</strong></summary>
+
+**Yes.** I provide practical external feedback around false positives, false negatives, AI attribution, reproducibility, UX friction, developer experience, workflow assumptions, validation weaknesses, edge cases and regression opportunities.
+
+</details>
+
+<details>
+<summary><strong>10. Can I ask SNTL84 to test my GitHub repository?</strong></summary>
+
+**Yes.** Share the repository URL, branch or commit, expected behaviour, observed behaviour, what you want validated and any known edge cases.
+
+The strongest feedback is **specific, reproducible and evidence-based**.
+
+</details>
+
+<details>
+<summary><strong>11. Does SNTL84 contribute to open source?</strong></summary>
+
+**Yes.** The profile documents open-source contribution, issue analysis, root-cause analysis, regression testing and React embed work involving projects such as **Velocity** and **cal.com / @calcom/embed-react**.
+
+</details>
+
+<details>
+<summary><strong>12. What technical areas does SNTL84 work with?</strong></summary>
+
+Practical areas include **React, Next.js, TypeScript, JavaScript, Python, Node.js, Tailwind CSS, REST APIs, GitHub, n8n, AI APIs, automation workflows, WhatsApp workflows, dashboards, e-commerce integrations and cloud deployment**.
+
+Technology is selected according to the business requirement.
+
+</details>
+
+<details>
+<summary><strong>13. Can SNTL84 automate sales and lead generation?</strong></summary>
+
+**Yes.**
+
+**Discover → Enrich → Score → Segment → Draft → Approve → Send → Track**
+
+This can support B2B prospecting, lead qualification, distributor discovery, outreach preparation, follow-ups and reporting.
+
+</details>
+
+<details>
+<summary><strong>14. Can SNTL84 help restaurants and food businesses get digitally ready?</strong></summary>
+
+**Yes.** A restaurant can approach me for a connected setup covering:
+
+**Google Business → Website → WhatsApp → Zomato → Swiggy → Instagram → Facebook → Meta Ads → Tracking**
+
+The exact scope depends on the restaurant's existing accounts, portals, requirements and budget.
+
+</details>
+
+<details>
+<summary><strong>15. Can SNTL84 help with e-commerce from zero?</strong></summary>
+
+**Yes.**
+
+**Business model → Store → Catalogue → Payments → Shipping → Marketplace → Customer support → Analytics → Advertising → Automation**
+
+The aim is to launch a practical system first and scale it as the business validates demand.
+
+</details>
+
+<details>
+<summary><strong>16. Can SNTL84 help businesses choose technology before they spend money?</strong></summary>
+
+**Yes.** I can help compare tools, platforms, hosting, software, automation products and integration options using **required capability + setup speed + cost + reliability + future scalability**.
+
+</details>
+
+<details>
+<summary><strong>17. Can SNTL84 configure Meta Ads Manager?</strong></summary>
+
+**Yes.** Support can include Meta Business Portfolio, Facebook / Instagram connections, ad account, **Meta Ads Manager**, Pixel, conversion events, Conversions API planning, audiences, campaign structure, lead / WhatsApp campaigns, retargeting and performance tracking.
+
+The goal is a **properly connected advertising system**, not simply publishing ads.
+
+</details>
+
+<details>
+<summary><strong>18. Can SNTL84 help businesses with technology they already own?</strong></summary>
+
+**Yes.**
+
+**What you already have → What is configured → What is missing → What should be connected → What can be automated**
+
+This can often be more cost-effective than replacing everything.
+
+</details>
+
+<details>
+<summary><strong>19. Can SNTL84 work with limited SME budgets?</strong></summary>
+
+**Yes.**
+
+**Phase 1 → Solve the biggest bottleneck**  
+**Phase 2 → Connect surrounding workflows**  
+**Phase 3 → Add reporting and intelligence**  
+**Phase 4 → Scale when justified**
+
+</details>
+
+<details>
+<summary><strong>20. Does every project need AI?</strong></summary>
+
+**No.** A form, database, dashboard, script, API, portal configuration or straightforward automation can be better than AI.
+
+**AI should solve a real problem — not become the problem.**
+
+</details>
+
+<details>
+<summary><strong>21. Can SNTL84 help developers, founders and open-source maintainers?</strong></summary>
+
+**Yes.** Collaboration can include issue triage, root-cause analysis, reproduction, regression testing, developer-experience feedback, real-repository testing, product feedback and workflow validation.
+
+</details>
+
+<details>
+<summary><strong>22. What should I send when contacting SNTL84?</strong></summary>
+
+Keep the first message simple:
+
+**1. What are you building?**  
+**2. What problem are you facing?**  
+**3. What have you already tried?**  
+**4. What outcome do you want?**  
+**5. Website, repository, screenshot or demo link if available.**
+
+That is enough to start.
+
+</details>
+
+<details>
+<summary><strong>23. Do I need a complete project before contacting SNTL84?</strong></summary>
+
+**No.** You can approach me at idea, prototype, MVP, existing-product, scaling, debugging, configuration or validation stage.
+
+</details>
+
+<details>
+<summary><strong>24. Does SNTL84 work only with Indian businesses?</strong></summary>
+
+**No.** I have strong practical exposure to Indian SME workflows, but the underlying capabilities can support projects globally.
+
+</details>
+
+<details>
+<summary><strong>25. Is SNTL84 available for collaboration?</strong></summary>
+
+**Yes.** I'm open to client projects, product collaborations, AI projects, automation projects, open-source collaboration, technical validation, strategic project feedback, agency partnerships and business-tech collaborations.
+
+</details>
+
+<details>
+<summary><strong>26. What is the best reason to contact SNTL84?</strong></summary>
+
+If you can clearly identify:
+
+> **“This process is wasting our time, money or attention.”**
+
+That is usually enough to start a conversation.
+
+</details>
+
+<details>
+<summary><strong>27. Can I approach SNTL84 before committing to development?</strong></summary>
+
+**Yes.** A repository, demo, screenshot, workflow diagram or short problem statement can be enough to start a practical discussion.
+
+The objective is to determine the **right solution before unnecessary development or spending begins**.
+
+</details>
+
+<details>
+<summary><strong>28. How do I contact SNTL84?</strong></summary>
+
+**WhatsApp:** [💬 Start a Project Conversation](https://wa.me/919727413309?text=Hi%20SNTL84%2C%20I%20want%20to%20discuss%20a%20project)  
+**Website:** [🌐 DesiDevloper](https://desidevloper.com)  
+**LinkedIn:** [💼 @SNTL2784](https://www.linkedin.com/in/sntl2784)  
+**Email:** [📧 3goldenlotusroots@gmail.com](mailto:3goldenlotusroots@gmail.com)  
+**Instagram:** [📸 @desibiztrade](https://www.instagram.com/desibiztrade)
+
+</details>
+
+---
+
+## 🤝 **Have a Problem Worth Solving?**
+
+Don't send a perfect proposal.
+
+Send the **problem**.
+
+**Automation • AI • Software • E-commerce • Restaurant Technology • Meta Ads • Tech Configuration • Tech Sourcing • Testing • Business Process Improvement**
+
+> ### **SNTL84 — I Collab What's Costing You Time.**
