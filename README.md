@@ -184,6 +184,38 @@ useEffect(() => {
 
 ---
 
+## 🗣️ **Client & Maintainer Feedback — Proof of Contribution**
+
+[#-client--maintainer-feedback--proof-of-contribution](#-client--maintainer-feedback--proof-of-contribution)
+> *Public GitHub repos are my always-on sales channel. Project owners find them, ask for an independent review, and act on it. Real screenshots, unedited.*
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="assets/testimonial-causari-whatsapp-feedback.jpg">
+        <img src="assets/testimonial-causari-whatsapp-feedback.jpg" alt="WhatsApp message: client thanks SNTL84 for detailed feedback on AI attribution, false attribution and developer experience" width="100%">
+      </a>
+      <br><br>
+      <b>📱 Causari — Client Feedback (WhatsApp)</b><br>
+      <sub>The project owner passed on thanks for the <i>detailed technical review</i> — specifically the points on <b>AI attribution, false attribution and developer experience</b> — and the honest improvement areas I flagged.</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="assets/testimonial-crovia-github-feedback.png">
+        <img src="assets/testimonial-crovia-github-feedback.png" alt="GitHub comment from croviatrust (Owner): invites SNTL84 to run re audit on a real repo and report false positives, false negatives and unclear attribution cases" width="100%">
+      </a>
+      <br><br>
+      <b>🐙 Crovia / Causari — Owner Comment (GitHub)</b><br>
+      <sub>The project owner engaged with my review, called the real-repo validation the most interesting part, and invited me to stress-test <code>re audit</code> and report failures as regression cases.</sub>
+    </td>
+  </tr>
+</table>
+
+<p align="center"><i>Click any screenshot to view full size.</i></p>
+
+**What this shows:** strategic, unpaid external project reviews → inbound replies from maintainers → real follow-up work. **Have a project that needs honest technical feedback?** [**💬 Message me on WhatsApp →**](https://wa.me/919727413309?text=Hi%20SNTL84%2C%20I%20want%20feedback%20on%20my%20project)
+
+---
+
 ## 👤 **Who I Help**
 
 > **Founders, agency owners, and SMB operators** in India and globally who are losing **hours every week to manual work** — hiring, lead generation, operations, reporting — and need someone who builds **production-ready systems fast**.
