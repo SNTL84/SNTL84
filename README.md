@@ -69,6 +69,31 @@
 
 ---
 
+## 🧭 **Strategic Project Feedback Support**
+
+> **Available on request:** I provide independent, practical technical feedback on real software projects — especially where AI attribution, false attribution, validation logic, developer experience, reproducibility, and workflow assumptions need an outside perspective.
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/SNTL84/SNTL84/main/assets/SNTL84-strategic-feedback-evidence.jpg" alt="SNTL84 strategic project feedback evidence" width="900" />
+
+</div>
+
+### **How I Support Projects**
+
+| Support Area | What I Add |
+|--------------|------------|
+| 🔍 **External Validation** | Test a real repository from outside the project context and challenge assumptions |
+| 🤖 **AI Attribution Review** | Flag weak, unclear, false-positive, or false-negative attribution patterns |
+| 🧪 **Reproducibility Feedback** | Document repo/commit, expected behaviour, observed result, and useful regression cases |
+| 👨‍💻 **Developer Experience Review** | Surface friction, unclear flows, and practical improvements from a fresh user perspective |
+| 🎯 **Strategic Feedback** | Focus on what is useful to the product rather than simply making results look clean |
+
+**Reference:** [Causari — GitHub Issue #60](https://github.com/croviatrust/causari/issues/60)  
+*Feedback was reviewed by the project owner and specifically appreciated for its technical observations around AI attribution, false attribution, and developer experience.*
+
+---
+
 ## ⚛️ **@calcom/embed-react — Active Contribution**
 
 > *Actively triaging and fixing issues in [`@calcom/embed-react`](https://github.com/calcom/cal.com/tree/main/packages/embed-react) — the React embed package used by thousands of cal.com users.*
@@ -227,7 +252,7 @@ useEffect(() => {
 **AI-powered resume screening that catches the best candidates instantly.**
 
 | Old Way (Manual) | New Way (AI) |
-|------------------|------------|
+|------------------|--------------|
 | Screen 100 CVs: **4 hours** | Screen 100 CVs: **2 minutes** |
 | Score 1 resume: **15 minutes** | Score 1 resume: **5 seconds** |
 | Miss 30% of good candidates | **Zero false negatives** |
@@ -581,7 +606,7 @@ Before writing code, I worked inside **BPO, FMCG, retail, and telecom**. That me
 
 ---
 
-*Last updated: June 2026 • [View on GitHub](https://github.com/SNTL84) • [Follow on LinkedIn](https://www.linkedin.com/in/sntl2784) • [Instagram](https://www.instagram.com/desibiztrade) • [YouTube @SNTL84](https://youtube.com/@SNTL84)*
+*Last updated: October 2026 • [View on GitHub](https://github.com/SNTL84) • [Follow on LinkedIn](https://www.linkedin.com/in/sntl2784) • [Instagram](https://www.instagram.com/desibiztrade) • [YouTube @SNTL84](https://youtube.com/@SNTL84)*
 
 </div>
 
