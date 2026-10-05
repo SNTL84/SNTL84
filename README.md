@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://desidevloper.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/SNTL84/SNTL84/main/assets/SNTL-84.jpg" alt="SNTL 84 — AI Automation • Full-Stack • Business Intelligence" width="900" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(1, 105, 111, 0.2);" />
+    <img src="https://raw.githubusercontent.com/SNTL84/SNTL84/main/assets/SNTL-84.jpg" alt="SNTL 84 — AI Automation • Full-Stack • Business Intelligence • Strategic Testing & Feedback Support • " width="900" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(1, 105, 111, 0.2);" />
   </a>
 </div>
 
