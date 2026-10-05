@@ -73,9 +73,27 @@
 
 > **Available on request:** I provide independent, practical technical feedback on real software projects — especially where AI attribution, false attribution, validation logic, developer experience, reproducibility, and workflow assumptions need an outside perspective.
 
+### 📸 **Proof of Contribution — Real Client & Project Feedback**
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SNTL84/SNTL84/main/assets/SNTL84-strategic-feedback-evidence.jpg" alt="SNTL84 strategic project feedback evidence" width="900" />
+#### 1. Causari — Owner Appreciation for Technical Feedback
+
+<img src="https://raw.githubusercontent.com/SNTL84/SNTL84/main/assets/SNTL84-strategic-feedback-evidence.jpg" alt="Causari project owner thanks for detailed technical feedback on AI attribution, false attribution, and developer experience" width="900" style="border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,0.15);" />
+
+<br/>
+
+*Client (via intermediary): “He found your technical observations particularly useful, especially the points around AI attribution, false attribution, and the developer experience. He really appreciated the honest feedback and the areas you highlighted for improvement.”*
+
+<br/><br/>
+
+#### 2. cal.com / embed-react & Real-Repo Validation Request
+
+<img src="https://raw.githubusercontent.com/SNTL84/SNTL84/main/assets/sntl84-calcom-embed-feedback.png" alt="Project owner request for real-repository validation and regression cases from SNTL84" width="900" style="border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,0.15);" />
+
+<br/>
+
+*Project owner (croviatrust): “The real-repository validation part is the most interesting to me… If something looks wrong, post the repo/commit, what you expected, what Causari reported, and enough detail for us to reproduce it.”*
 
 </div>
 
@@ -374,258 +392,3 @@ useEffect(() => {
 ## 📊 **Real Results — Real Numbers**
 
 > *Built for founders, SMBs, and operators. Every number below is from a real, production project.*
-
-<div align="center">
-
-| What I Built | Client Context | Result | Impact |
-|--------------|-----------------|--------|--------|
-| **AI Hiring System** | B2B recruitment | 4 hrs → 45 min/day | **80% faster** ⚡ |
-| **Backoffice OS** | SMB operations | 3 spreadsheets → 1 dashboard | **6 hrs/week saved** 💰 |
-| **Lead Enrichment Agent** | Startup outreach | 45 min → 3 min per lead | **93% faster** 🚀 |
-| **MetroMate** | Housing society (42 flats) | Zero paper • 3 languages | **100% digital** 📲 |
-| **Statement Generator** | Multi-language export | 1,131 translations in 1 run | **Days of work** in minutes ⏱️ |
-| **Business Intelligence** | B2B trade directory | 264 services • 22 industries | **2 hours vs. weeks** 📈 |
-| **99-Page Generator** | Personal productivity | Full app from 3 prompts | **2 days → 15 minutes** 🎯 |
-| **Velocity OSS Fix** | AI Agent Framework | Eliminated startup crash | **ERR_MODULE_NOT_FOUND → Resolved** 🔧 |
-| **cal.com embed-react Fix** | React embed users globally | Silent config/theme update failure | **useRef guard → Reactive effects** ⚛️ |
-
-</div>
-
----
-
-## ⚡ **Why I'm Different**
-
-Most developers build what you ask. **I understand operations first.**
-
-Before writing code, I worked inside **BPO, FMCG, retail, and telecom**. That means I design systems that:
-
-- ✅ Solve **actual business problems** (not just technical exercises)
-- ✅ Work **with your existing tools** (Razorpay, Shiprocket, WhatsApp, n8n, Zapier)
-- ✅ Scale from **day 1 to 1000 users** without rewriting
-- ✅ Are **cheap to run** (focus on cost optimization)
-- ✅ **Don't need me forever** (you own everything, I document everything)
-
----
-
-## 🛠️ **Tech Stack**
-
-<div align="center">
-
-### Languages & Frameworks
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-
-### Automation & Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
-
-### OSS Contributions & Specialties
-![cal.com embed-react](https://img.shields.io/badge/@calcom%2Fembed--react-Specialist-0055FF?style=for-the-badge&logo=react&logoColor=white)
-![Velocity OSS](https://img.shields.io/badge/Velocity_OSS-Contributor-01696f?style=for-the-badge&logo=github&logoColor=white)
-![Unit Testing](https://img.shields.io/badge/Unit_Testing-Node_ESM-339933?style=for-the-badge&logo=jest&logoColor=white)
-![ESM Modules](https://img.shields.io/badge/ESM_Modules-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Frontend & Styling
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-
-### Indian Payment & Logistics
-![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logoColor=white)
-![Shiprocket](https://img.shields.io/badge/Shiprocket-00A0E9?style=for-the-badge&logoColor=white)
-![Delhivery](https://img.shields.io/badge/Delhivery-F7F7F7?style=for-the-badge&logo=delhivery&logoColor=black)
-
-### Deployment & Infrastructure
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-</div>
-
----
-
-## 📂 **Project Directory** *(Browse by Category)*
-
-<details open>
-<summary><b>🏗️ Flagship Projects (Revenue-Generating)</b></summary>
-
-- 🏙️ [MetroMate](https://github.com/SNTL84/MetroMate) — Parking & vehicle management
-- 🤖 [AI Hiring Intel](https://github.com/SNTL84/sntl84-ai-hiring-intel) — Resume screening
-- 🏢 [Backoffice OS](https://github.com/SNTL84/sntl84-backoffice-os) — HR operations
-- 🤖 [Agentic Recruiter](https://github.com/SNTL84/sntl84-agentic-recruiter) — Recruitment automation
-
-</details>
-
-<details open>
-<summary><b>🌐 Open Source Contributions</b></summary>
-
-- ⚛️ [cal.com](https://github.com/calcom/cal.com) — `@calcom/embed-react` specialist — **[Issue #28979 Analysis](https://github.com/calcom/cal.com/issues/28979)** • **[Fork](https://github.com/SNTL84/cal.com)** 🔥 PR in progress
-- 🚀 [Velocity](https://github.com/ishandutta2007/Velocity) — AI agent framework (Google Antigravity/Cursor/Claude Code OSS equiv.) — **[Merged PR #25](https://github.com/ishandutta2007/Velocity/pull/25)** ✅
-
-</details>
-
-<details open>
-<summary><b>🛒 E-Commerce (7-Service Bundle)</b></summary>
-
-- 📦 [Dropshipping Setup](https://github.com/SNTL84/sntl84-ecom-dropshipping-setup)
-- 🏪 [Marketplace Listing](https://github.com/SNTL84/sntl84-ecom-marketplace-listing)
-- 🚚 [Order Fulfillment](https://github.com/SNTL84/sntl84-ecom-order-fulfillment)
-- 💳 [Payment Integration](https://github.com/SNTL84/sntl84-ecom-payment-integration)
-- 🔄 [Inventory Sync](https://github.com/SNTL84/sntl84-ecom-inventory-sync)
-- 📣 [Ad Campaigns](https://github.com/SNTL84/sntl84-ecom-ad-campaigns)
-- 🎧 [Customer Support](https://github.com/SNTL84/sntl84-ecom-customer-support)
-
-</details>
-
-<details open>
-<summary><b>🤖 AI & Automation Agents</b></summary>
-
-- 🚀 [Lead Enrichment Agent](https://github.com/SNTL84/ai-lead-enrichment-agent)
-- 🧠 [FMCG Lead Intelligence](https://github.com/SNTL84/sntl84-fmcg-lead-intel)
-- 📊 [Business Intelligence Push](https://github.com/SNTL84/sntl84-business-intelligence-push)
-
-</details>
-
-<details open>
-<summary><b>🔧 Automation & Templates</b></summary>
-
-- 🤖 [n8n SMB Workflow Templates](https://github.com/SNTL84/n8n-india-smb-workflow-templates) ⭐
-- 📞 [WhatsApp Outreach Tool](https://github.com/SNTL84/whatsapp-outreach-tool)
-- ⚡ [DesiQuote](https://github.com/SNTL84/sntl84-desi-quote)
-
-</details>
-
-<details open>
-<summary><b>💼 Portfolio & Services</b></summary>
-
-- 🌐 [DesiDeveloper Portfolio (Next.js)](https://github.com/SNTL84/desidevloper-portfolio-nextjs)
-- 🔧 [DesiDeveloper (React)](https://github.com/SNTL84/desidevloper)
-- 📱 [Services Live Demo](https://github.com/SNTL84/sntl84-desidevloper-live-demo)
-- 🏠 [CoHost Virtual Assistant](https://github.com/SNTL84/sntl84-cohost-virtual-assistant-v3)
-
-</details>
-
-<details open>
-<summary><b>📚 Open-Source & Community</b></summary>
-
-- 📌 [Awesome AI Sales Agents](https://github.com/SNTL84/awesome-ai-sales-agents) — Curated list of 100+ tools
-- 🎨 [AI Frontend Projects](https://github.com/SNTL84/ai-frontend-projects) — 45 battle-tested builds
-
-</details>
-
----
-
-## 🤝 **Work With Me**
-
-### **Choose What Fits:**
-
-<div align="center">
-
-| Option | Response Time | Best For | Action |
-|--------|---------------|----------|--------|
-| **💬 WhatsApp** | **< 2 hours** | Quick brief • Urgent | [**Chat Now →**](https://wa.me/919727413309?text=Hi%20SNTL84%2C%20I%20have%20a%20project%20in%20mind) |
-| **🌐 Website** | **24 hours** | Full services • Portfolio | [**Visit →**](https://desidevloper.com) |
-| **📧 Email** | **24 hours** | Formal proposal • Details | [**Send Email →**](mailto:3goldenlotusroots@gmail.com) |
-
-</div>
-
-### **Or Explore More:**
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/sntl2784) — Professional updates
-- 📸 [Instagram](https://www.instagram.com/desibiztrade) — Behind-the-scenes
-- 🤖 [Arrattai Profile](https://aratt.ai/user/@desidevloper) — AI community
-
----
-
-## 🚀 **Quick Start by Use Case**
-
-### **👷 I manage a housing society**
-→ Struggling with parking, vehicle registration, tenant management?  
-[**→ Explore MetroMate**](https://github.com/SNTL84/MetroMate)
-
-### **🛒 I run an e-commerce store**
-→ Manual orders across Amazon, Flipkart, Meesho?  
-[**→ Explore E-Commerce Suite**](https://github.com/SNTL84/sntl84-ecom-marketplace-listing)
-
-### **🎯 I'm hiring and need to screen resumes**
-→ Spending 4+ hours/day screening CVs?  
-[**→ Explore AI Hiring Intel**](https://github.com/SNTL84/sntl84-ai-hiring-intel)
-
-### **📞 I do B2B outreach and sales**
-→ Manual lead research taking 45 min per lead?  
-[**→ Explore Lead Enrichment Agent**](https://github.com/SNTL84/ai-lead-enrichment-agent)
-
-### **⚙️ I want to Collab workflows**
-→ Copy-pasting between tools and chasing approvals?  
-[**→ Explore n8n Templates**](https://github.com/SNTL84/n8n-india-smb-workflow-templates)
-
-### **👀 I just want to see latest work**
-→ Curious about what's possible?  
-[**→ Explore Latest Portfolio**](https://github.com/SNTL84/desidevloper-portfolio-nextjs)
-
----
-
-## 📈 **By The Numbers**
-
-<div align="center">
-
-| Metric | Value |
-|--------|-------|
-| 🔨 **Projects Built** | 30+ production systems |
-| ⏱️ **Average Project Timeline** | 3–7 days from brief to live |
-| 💰 **Client Cost Savings** | ₹50,00,000+ per year (combined) |
-| 🎯 **Success Rate** | 100% of systems live & generating revenue |
-| 🌍 **Clients Across** | 15+ countries & 8+ industries |
-| 📱 **Tech Combinations Used** | 50+ unique tech stacks |
-| 🌐 **OSS Contributions** | 2 active OSS projects (Velocity ✅ + cal.com 🔥) |
-| ⚛️ **embed-react Specialty** | @calcom/embed-react bug triage & fix specialist |
-
-</div>
-
----
-
-## 💬 **One Last Thing**
-
-> *"I don't just build code. I build systems that founders can rely on — that solve real problems, that scale, that don't need me every day."*
-
-**Your business shouldn't require constant developer maintenance. It should work like a machine.**
-
----
-
-<div align="center">
-
-### 👉 **Ready to Collab and scale?**
-
-#### **[🚀 Start Your Free Strategy Call Now](https://wa.me/919727413309?text=Hi%20SNTL84%2C%20I%20want%20a%20free%20strategy%20call%20to%20understand%20how%20I%20can%20Collab%20my%20business)**
-
----
-
-*Last updated: October 2026 • [View on GitHub](https://github.com/SNTL84) • [Follow on LinkedIn](https://www.linkedin.com/in/sntl2784) • [Instagram](https://www.instagram.com/desibiztrade) • [YouTube @SNTL84](https://youtube.com/@SNTL84)*
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001f3f,25:005a96,50:01696f,75:01a89f,100:0d1117&height=120&section=footer&text=Built%20by%20Milan%20%E2%80%A2%20SNTL84&fontSize=20&fontColor=ffffff&animation=fadeIn" />
-</div>
-
-
----
-
-<div align="center">
-
-### 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=SNTL84&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SNTL84&theme=tokyonight&hide_border=true" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SNTL84&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-
-</div>
