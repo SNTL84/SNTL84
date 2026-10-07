@@ -12,7 +12,7 @@
 
 <div align="center">
 
-## 🎯 **I Collab What's Costing You Time **
+## 🎯 **Collab What's Costing You Time **
 ### *From Prompt to Production • Without 6 Weeks and a Project Manager*
 
 **Specialized in:**  
