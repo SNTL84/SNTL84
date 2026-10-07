@@ -83,6 +83,50 @@
 - 💬 **Public feedback:** A detailed validation update has been posted to [Causari Issue #60](https://github.com/croviatrust/causari/issues/60#issuecomment-6045517467).
 - 🔬 **Next validation stage:** Test the same 0.4.0 release against an independent real-world repository to validate reproducibility and interpretation outside the Causari codebase.
 
+## 🧪 **Vibe Coder — Independent AI & Software Validation**
+
+> **I don't just vibe-code software. I test what AI and developers build in the real world.**
+
+As a **Vibe Coder**, I combine rapid AI-assisted development with practical human judgment, reproducibility, GitHub evidence, and business context.
+
+### 🔬 **Causari Validation — A Practical Example**
+
+My Causari work evolved from ordinary product feedback into an independent validation exercise:
+
+- Tested the **distributed Causari 0.4.0 Windows build** without compiling from source.
+- Verified executable discovery and completed a remote repository audit.
+- Examined **AI attribution, survival measurements, age buckets, baseline comparisons, and JSON output**.
+- Documented interpretation risks, UX friction, and cases that could otherwise be mistaken for failures.
+- Proposed **real-repository validation, reproducible cases, regression tests, benchmark evidence, and case-study opportunities**.
+- Continued the work as an independent user/tester rather than treating the project as a theoretical review.
+
+**Evidence:** [Causari Issue #60 — independent validation discussion](https://github.com/croviatrust/causari/issues/60)
+
+### 💼 **Where This Work Can Be Paid**
+
+This skill set can be engaged commercially when a product, repository, AI workflow, or development process needs independent evidence and practical testing:
+
+| Opportunity | What I Can Deliver |
+|---|---|
+| 💳 **Paid Beta / Product Testing** | Real-user testing, edge cases, reproducibility notes, UX friction and actionable findings |
+| 📣 **Developer Advocacy / Community Testing** | Developer feedback, ecosystem testing, GitHub discussions, issue discovery and adoption-oriented feedback |
+| 🧠 **AI Code-Quality Consulting** | Review AI-assisted code/workflows for maintainability, correctness, attribution and failure patterns |
+| 📚 **Case-Study / Research Contracts** | Structured experiments, evidence capture, methodology, results and independent validation narratives |
+| 🐛 **Bug Bounties / Paid Issue Programs** | Reproducible defects, impact analysis and technically useful reports where qualifying programs exist |
+| 🧪 **Vibe Coding QA Service** | Test AI-generated or AI-assisted applications before users do: **Prompt → Build → Test → Break → Document → Improve** |
+
+> **Positioning:** I am available for **independent validation, Vibe Coding QA, AI-assisted software testing, product feedback and real-repository experiments**. Paid engagement, sponsorship, bounty eligibility or employment should be agreed directly with the project or company.
+
+### 🎯 **Why This Matters to Product Teams**
+
+AI can generate software quickly. **That does not automatically prove that the software is correct, reproducible, maintainable, trustworthy, or useful.**
+
+My role is to add the human layer:
+
+**AI Speed + Developer Skill + Real-Repo Testing + Human Judgment = Better Software Decisions**
+
+---
+
 ## 🧭 **Strategic Project Feedback Support**
 
 > **Available on request:** I provide independent, practical technical feedback on real software projects — especially where AI attribution, false attribution, validation logic, developer experience, reproducibility, and workflow assumptions need an outside perspective.
@@ -566,6 +610,26 @@ For software feedback, the strongest inputs are:
 </details>
 
 <details>
+<summary><strong>10. Is SNTL84 available for paid product testing or Vibe Coding QA?</strong></summary>
+
+**Yes.**
+
+I can work on a paid or formally sponsored basis for **beta/product testing, developer advocacy and community testing, AI code-quality consulting, case-study/research validation, qualifying bug-bounty or paid issue programs, and Vibe Coding QA**.
+
+The work can include:
+
+- Reproducing issues on real repositories
+- Designing practical validation experiments
+- Testing AI-generated or AI-assisted workflows
+- Finding false positives, false negatives, edge cases and UX friction
+- Producing structured evidence, regression ideas and improvement recommendations
+- Turning technical observations into usable product feedback or case studies
+
+For a commercial engagement, the **scope, deliverables, access, timeline and compensation should be agreed before work begins**.
+
+</details>
+
+<details>
 <summary><strong>09. Does SNTL84 provide independent technical feedback?</strong></summary>
 
 **Yes.**
@@ -577,7 +641,7 @@ Recent work includes real-repository validation of AI-development provenance too
 </details>
 
 <details>
-<summary><strong>10. Can I ask SNTL84 to test my GitHub repository?</strong></summary>
+<summary><strong>11. Can I ask SNTL84 to test my GitHub repository?</strong></summary>
 
 **Yes.**
 
@@ -590,7 +654,7 @@ I prefer **specific, reproducible and evidence-based** feedback over generic pra
 </details>
 
 <details>
-<summary><strong>11. Does SNTL84 contribute to open source?</strong></summary>
+<summary><strong>12. Does SNTL84 contribute to open source?</strong></summary>
 
 **Yes.** My profile documents open-source contribution, issue analysis, root-cause analysis, regression testing and React embed work across projects including **Velocity** and **cal.com / @calcom/embed-react**.
 
@@ -599,7 +663,7 @@ The goal is not just to open issues — it is to provide enough evidence for mai
 </details>
 
 <details>
-<summary><strong>12. What is the Vibe Coder angle?</strong></summary>
+<summary><strong>13. What is the Vibe Coder angle?</strong></summary>
 
 **Vibe Coder** describes how I work with modern AI-assisted development:
 
@@ -614,7 +678,7 @@ The strongest workflow combines both.
 </details>
 
 <details>
-<summary><strong>13. Can SNTL84 automate sales and lead generation?</strong></summary>
+<summary><strong>14. Can SNTL84 automate sales and lead generation?</strong></summary>
 
 **Yes.**
 
@@ -625,7 +689,7 @@ This can support B2B prospecting, lead qualification, distributor discovery, out
 </details>
 
 <details>
-<summary><strong>14. Can SNTL84 help restaurants and food businesses get digitally ready?</strong></summary>
+<summary><strong>15. Can SNTL84 help restaurants and food businesses get digitally ready?</strong></summary>
 
 **Yes.**
 
@@ -638,7 +702,7 @@ The scope depends on the business's existing accounts, portals, requirements and
 </details>
 
 <details>
-<summary><strong>15. Can SNTL84 help with e-commerce from zero?</strong></summary>
+<summary><strong>16. Can SNTL84 help with e-commerce from zero?</strong></summary>
 
 **Yes.**
 
@@ -649,7 +713,7 @@ The goal is to launch a practical system first and scale it when the business va
 </details>
 
 <details>
-<summary><strong>16. Can SNTL84 help businesses choose technology before spending?</strong></summary>
+<summary><strong>17. Can SNTL84 help businesses choose technology before spending?</strong></summary>
 
 **Yes.**
 
@@ -664,7 +728,7 @@ The principle is simple:
 </details>
 
 <details>
-<summary><strong>17. Can SNTL84 configure Meta Ads and conversion tracking?</strong></summary>
+<summary><strong>18. Can SNTL84 configure Meta Ads and conversion tracking?</strong></summary>
 
 **Yes.**
 
@@ -673,7 +737,7 @@ Support can include Meta Business Portfolio, Facebook / Instagram connections, a
 </details>
 
 <details>
-<summary><strong>18. Can SNTL84 help with technology a business already owns?</strong></summary>
+<summary><strong>19. Can SNTL84 help with technology a business already owns?</strong></summary>
 
 **Yes.**
 
@@ -686,7 +750,7 @@ Replacing software is often unnecessary when configuration and workflow design c
 </details>
 
 <details>
-<summary><strong>19. Can SNTL84 work with limited SME budgets?</strong></summary>
+<summary><strong>20. Can SNTL84 work with limited SME budgets?</strong></summary>
 
 **Yes.**
 
@@ -698,7 +762,7 @@ Replacing software is often unnecessary when configuration and workflow design c
 </details>
 
 <details>
-<summary><strong>20. Does every project need AI?</strong></summary>
+<summary><strong>21. Does every project need AI?</strong></summary>
 
 **No.**
 
@@ -709,7 +773,7 @@ A form, database, dashboard, script, API, portal configuration or straightforwar
 </details>
 
 <details>
-<summary><strong>21. Can SNTL84 help developers, founders and open-source maintainers?</strong></summary>
+<summary><strong>22. Can SNTL84 help developers, founders and open-source maintainers?</strong></summary>
 
 **Yes.**
 
@@ -718,7 +782,7 @@ Collaboration can include issue triage, root-cause analysis, reproduction, regre
 </details>
 
 <details>
-<summary><strong>22. What should I send when contacting SNTL84?</strong></summary>
+<summary><strong>23. What should I send when contacting SNTL84?</strong></summary>
 
 Keep the first message simple:
 
@@ -733,7 +797,7 @@ That is enough to start.
 </details>
 
 <details>
-<summary><strong>23. Do I need a complete project before contacting SNTL84?</strong></summary>
+<summary><strong>24. Do I need a complete project before contacting SNTL84?</strong></summary>
 
 **No.**
 
@@ -742,7 +806,7 @@ You can approach me at the **idea, prototype, MVP, existing-product, scaling, de
 </details>
 
 <details>
-<summary><strong>24. Can SNTL84 work with international clients?</strong></summary>
+<summary><strong>25. Can SNTL84 work with international clients?</strong></summary>
 
 **Yes.**
 
@@ -751,7 +815,7 @@ My strongest practical exposure is to Indian SME workflows, but the underlying c
 </details>
 
 <details>
-<summary><strong>25. Is SNTL84 available for collaboration?</strong></summary>
+<summary><strong>26. Is SNTL84 available for collaboration?</strong></summary>
 
 **Yes.**
 
@@ -760,7 +824,7 @@ I'm open to **client projects, product collaborations, AI projects, automation p
 </details>
 
 <details>
-<summary><strong>26. What is the best reason to contact SNTL84?</strong></summary>
+<summary><strong>27. What is the best reason to contact SNTL84?</strong></summary>
 
 If you can identify:
 
@@ -771,7 +835,7 @@ That is usually enough to start a useful conversation.
 </details>
 
 <details>
-<summary><strong>27. Can I approach SNTL84 before committing to development?</strong></summary>
+<summary><strong>28. Can I approach SNTL84 before committing to development?</strong></summary>
 
 **Yes.**
 
@@ -782,7 +846,29 @@ The objective is to determine the **right solution before unnecessary developmen
 </details>
 
 <details>
-<summary><strong>28. How do I contact SNTL84?</strong></summary>
+<summary><strong>30. Why would a company pay for an independent Vibe Coder?</strong></summary>
+
+Because an internal team can build a feature and still miss the **real-world failure mode**.
+
+An independent Vibe Coder can provide a fresh environment, challenge assumptions, reproduce problems, test the product like a real developer, and document evidence without being responsible for the original implementation.
+
+**The value is not “another opinion.” The value is independent evidence that can change a product decision.**
+
+</details>
+
+<details>
+<summary><strong>31. How should a company engage SNTL84 commercially?</strong></summary>
+
+A useful brief can define:
+
+**Repository/product → What needs validation → Test environment/access → Deliverables → Deadline → Compensation**
+
+Engagements can be structured as a **fixed validation project, paid beta assignment, consulting engagement, research/case-study contract, qualifying bounty, or recurring Vibe Coding QA arrangement**.
+
+</details>
+
+<details>
+<summary><strong>29. How do I contact SNTL84?</strong></summary>
 
 **WhatsApp:** [💬 Start a Project Conversation](https://wa.me/919727413309?text=Hi%20SNTL84%2C%20I%20want%20to%20discuss%20a%20project)  
 **Website:** [🌐 DesiDevloper](https://desidevloper.com)  
