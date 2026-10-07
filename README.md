@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001f3f,25:005a96,50:01696f,75:01a89f,100:0d1117&height=320&section=header&text=SNTL%2084&desc=Milan%20%E2%80%A2%20AI%20Workflow%20Developer&fontSize=60&fontColor=ffffff&animation=fadeIn&descSize=25&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001f3f,25:005a96,50:01696f,75:01a89f,100:0d1117&height=320&section=header&text=SNTL%2084&desc=Milan%20%E2%80%A2%20Vibe%20Coder%20%2B%20AI%20Workflow%20Developer%20%2B%20Independent%20Software%20Validator&fontSize=60&fontColor=ffffff&animation=fadeIn&descSize=25&descAlign=62" />
 </div>
 
 <div align="center">
   <a href="https://desidevloper.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/SNTL84/SNTL84/main/assets/SNTL-84.jpg" alt="SNTL 84 — AI Automation • Full-Stack • Business Intelligence • Strategic Testing & Feedback Support • " width="900" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(1, 105, 111, 0.2);" />
+    <img src="https://raw.githubusercontent.com/SNTL84/SNTL84/main/assets/SNTL-84.jpg" alt="SNTL 84 — Vibe Coder • AI Workflow Developer • Independent Software Validator • AI Automation • Full-Stack • Business Intelligence" width="900" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(1, 105, 111, 0.2);" />
   </a>
 </div>
 
@@ -83,9 +83,11 @@
 - 💬 **Public feedback:** A detailed validation update has been posted to [Causari Issue #60](https://github.com/croviatrust/causari/issues/60#issuecomment-6045517467).
 - 🔬 **Next validation stage:** Test the same 0.4.0 release against an independent real-world repository to validate reproducibility and interpretation outside the Causari codebase.
 
-## 🧪 **Vibe Coder — Independent AI & Software Validation**
+## 🧪 **Vibe Coder + AI Workflow Developer + Independent Software Validator**
 
-> **I don't just vibe-code software. I test what AI and developers build in the real world.**
+> **Vibe Coder who validates what AI builds.**
+>
+> I use AI to build fast, then apply human judgment, real-repository testing, reproducibility, GitHub evidence and business context to find what the AI missed.
 
 As a **Vibe Coder**, I combine rapid AI-assisted development with practical human judgment, reproducibility, GitHub evidence, and business context.
 
@@ -665,7 +667,7 @@ The goal is not just to open issues — it is to provide enough evidence for mai
 <details>
 <summary><strong>13. What is the Vibe Coder angle?</strong></summary>
 
-**Vibe Coder** describes how I work with modern AI-assisted development:
+**Vibe Coder** describes how I work with modern AI-assisted development — and how I validate what AI builds:
 
 **Idea → Prompt → Prototype → Iterate → Test → Ship**
 
@@ -673,7 +675,7 @@ I care about the emotional side of building — speed, flow, experimentation and
 
 > **Vibe Coder is about emotions. Devs are about numbers and results.**
 
-The strongest workflow combines both.
+The strongest workflow combines both: **Vibe Coder speed + AI Workflow engineering + independent validation.**
 
 </details>
 
