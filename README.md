@@ -69,6 +69,20 @@
 
 ---
 
+## ✅ **Latest Causari Validation — Windows 0.4.0**
+
+> **October 2026 progress update:** Real-world validation of the distributed Causari 0.4.0 Windows build is now completed against the Causari repository, with follow-up independent-repository validation next.
+
+- 🪟 **Windows distributed-build test:** Completed without compiling from source.
+- 🔎 **Executable discovery:** `re.exe` is discoverable from PowerShell at `C:\Users\LENOVO\AppData\Local\Programs\causari\re.exe`.
+- 🧪 **Remote repository audit:** `re audit croviatrust/causari` completed successfully.
+- 📊 **Observed result:** 266 commits analyzed; 14 metadata-matched AI-tagged commits; 6,267 introduced lines; 5,147 surviving lines; 82.1% line-weighted survival; 81.4% untagged baseline; +1.3 percentage-point age-matched gap.
+- 🧾 **JSON validation:** `re audit croviatrust/causari --json` completed successfully and exposed method v4, repository metadata, age buckets, baseline, and agent-level measurements.
+- 🧠 **Methodology observation:** `null` age-bucket values appear to represent windows with no qualifying tagged data; this should remain clearly distinct from a zero-survival result.
+- 🖥️ **UX observation:** An initial remote-audit message appeared before the repository was cloned and the audit completed successfully; clearer progress messaging could reduce false “audit failed” interpretations.
+- 💬 **Public feedback:** A detailed validation update has been posted to [Causari Issue #60](https://github.com/croviatrust/causari/issues/60#issuecomment-6045517467).
+- 🔬 **Next validation stage:** Test the same 0.4.0 release against an independent real-world repository to validate reproducibility and interpretation outside the Causari codebase.
+
 ## 🧭 **Strategic Project Feedback Support**
 
 > **Available on request:** I provide independent, practical technical feedback on real software projects — especially where AI attribution, false attribution, validation logic, developer experience, reproducibility, and workflow assumptions need an outside perspective.
