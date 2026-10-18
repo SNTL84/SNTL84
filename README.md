@@ -20,6 +20,16 @@
 
 </div>
 
+> **Primary offer: AI App QA Audit**
+>
+> I test AI-built apps, SaaS prototypes and web workflows for broken user journeys, reproducible bugs, edge cases and usability friction. You receive a prioritized findings report, reproduction steps, and a fix checklist.
+>
+> **Introductory pilot:** ₹3,000–₹7,500 depending on scope. Confirmed scope and delivery date before work begins.
+>
+> **[Request an AI App QA Audit on WhatsApp →](https://wa.me/919727413309?text=Hi%20SNTL84%2C%20I%20want%20an%20AI%20App%20QA%20Audit)** · [View validation evidence](https://github.com/croviatrust/causari/issues/60) · [View merged regression-test PR](https://github.com/ishandutta2007/Velocity/pull/25)
+>
+> Also available: **business workflow automation** and **operations dashboards** for small businesses. Third-party fees, hosting, and paid API usage are scoped separately.
+
 ---
 
 <div align="center">
@@ -335,7 +345,7 @@ useEffect(() => {
 
 ## 💼 **Featured Work**
 
-### 🏆 **Flagship Projects** *(Live, Revenue-Generating)*
+### 🏆 **Featured Projects** *(Selected public demos and case studies)*
 
 <div align="center">
 
