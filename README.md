@@ -223,11 +223,11 @@ useEffect(() => {
 
 | Badge | How to Earn | Status |
 |-------|------------|--------|
-| 🦈 **Pull Shark** | Get 2+ PRs merged in public repos | 🟡 1 merged — cal.com PR = unlock! |
-| ⚡ **Quickdraw** | Close issue or PR within 5 min of opening | ✅ Eligible — act fast on next one |
+| 🦈 **Pull Shark** | Get 2+ PRs merged in public repos | ✅ Earned — badge live on profile |
+| ⚡ **Quickdraw** | Close issue or PR within 5 min of opening | ✅ Earned — badge live on profile |
 | 🌟 **Starstruck** | Repo receives 16+ stars | 🟡 Star [Velocity](https://github.com/ishandutta2007/Velocity) & share |
 | 🧠 **Galaxy Brain** | Answer accepted as solution in Discussions | 🟡 Join Velocity Discussions |
-| 🏅 **YOLO** | Merge your own PR without review | ✅ Eligible on your personal repos |
+| 🏅 **YOLO** | Merge your own PR without review | ✅ Earned — badge live on profile |
 | ❤️ **Pair Extraordinaire** | Co-author a merged commit | 🟡 Add co-author on next PR |
 
 </div>
